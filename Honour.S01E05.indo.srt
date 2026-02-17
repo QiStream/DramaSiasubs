@@ -1,0 +1,3333 @@
+1
+00:00:08,408 --> 00:00:10,677
+"Lee Na Young"
+
+2
+00:00:16,649 --> 00:00:19,285
+"Jung Eun Chae"
+
+3
+00:00:20,920 --> 00:00:23,556
+"Lee Chung Ah"
+
+4
+00:00:31,431 --> 00:00:35,035
+"Honour"
+
+5
+00:00:35,602 --> 00:00:38,405
+"Didukung Kementerian Kebudayaan
+dan Badan Konten Kreatif Korea"
+
+6
+00:00:39,172 --> 00:00:40,640
+"Seluruh tokoh, insiden, dan latar belakang"
+
+7
+00:00:40,707 --> 00:00:41,741
+"Pada drama ini adalah fiktif"
+
+8
+00:00:41,741 --> 00:00:42,776
+"Pemeran anak-anak dan hewan
+direkam di bawah pengawasan undang-undang"
+
+9
+00:00:43,043 --> 00:00:47,947
+"Dari teman lama - Park Ju Hwan"
+
+10
+00:00:52,385 --> 00:00:53,386
+Lama tidak bertemu.
+
+11
+00:00:54,087 --> 00:00:55,455
+Aku merindukanmu, Ra Young.
+
+12
+00:01:07,801 --> 00:01:12,272
+Kenapa ekspresimu seperti itu?
+Seperti melihat hantu saja.
+
+13
+00:01:18,111 --> 00:01:20,947
+Aku sudah dengar beritanya.
+Tentang hari jadi ke-10 kalian.
+
+14
+00:01:21,014 --> 00:01:23,016
+Jadi, aku mampir untuk mengucapkan selamat
+meski terlambat.
+
+15
+00:01:24,517 --> 00:01:25,819
+"Dari teman lama - Park Ju Hwan"
+
+16
+00:01:28,221 --> 00:01:31,024
+Di mana Shin Jae dan Hyeon Jin?
+Mereka di dalam?
+
+17
+00:01:33,760 --> 00:01:35,195
+Mereka sedang tidak ada.
+
+18
+00:01:36,796 --> 00:01:37,797
+Begitu?
+
+19
+00:01:38,398 --> 00:01:41,034
+Sayang sekali.
+Aku ingin bertemu mereka mumpung aku di sini.
+
+20
+00:01:43,103 --> 00:01:45,438
+Ayo keluar. Kita minum teh.
+
+21
+00:01:50,143 --> 00:01:51,878
+"Universitas Hankuk - Buletin Fakultas Hukum
+
+22
+00:01:51,911 --> 00:01:53,079
+Omong-omong,
+
+23
+00:01:53,346 --> 00:01:55,615
+bagaimana kasus siswa hilang itu?
+
+24
+00:01:55,615 --> 00:01:57,083
+Apa jasadnya ditemukan?
+
+25
+00:01:57,150 --> 00:01:58,218
+Maksudmu Ju Hwan?
+
+26
+00:01:59,052 --> 00:02:00,553
+Ju Hwan tidak tewas.
+
+27
+00:02:00,954 --> 00:02:02,622
+Dia ditemukan di rumah sakit
+beberapa hari kemudian.
+
+28
+00:02:03,056 --> 00:02:05,592
+Seseorang yang lewat menemukannya
+dan membawanya ke rumah sakit,
+
+29
+00:02:06,159 --> 00:02:07,827
+tapi sepertinya identitasnya
+belum terkonfirmasi saat itu.
+
+30
+00:02:09,562 --> 00:02:12,966
+Kalau begitu, jika dia masih hidup,
+kenapa pelakunya tidak tertangkap?
+
+31
+00:02:13,166 --> 00:02:15,168
+Sebab, Ju Hwan kehilangan ingatannya.
+
+32
+00:02:15,468 --> 00:02:18,872
+Pendarahan otak membuatnya lupa
+semua kejadian hari kecelakaan.
+
+33
+00:02:19,406 --> 00:02:23,009
+Kudengar efeknya cukup parah.
+Dia cuti kuliah untuk pemulihan
+
+34
+00:02:23,076 --> 00:02:27,280
+dan pergi ke luar negeri.
+Sejak itu, tak ada kabar darinya.
+
+35
+00:02:28,682 --> 00:02:30,417
+Park Ju Hwan.
+
+36
+00:02:33,086 --> 00:02:34,487
+Spyware?
+
+37
+00:02:34,654 --> 00:02:38,425
+Aplikasi Connect.
+Mereka meretas ponsel dengan itu.
+
+38
+00:02:38,625 --> 00:02:41,628
+- Sepertinya kita dipantau langsung.
+- Sial.
+
+39
+00:02:42,095 --> 00:02:43,997
+Tunggu, bagaimana mereka bisa tahu itu kita?
+
+40
+00:02:46,066 --> 00:02:48,835
+Bisa jadi mereka memang mengumpulkan
+semua data dengan cara ini.
+
+41
+00:02:49,202 --> 00:02:50,203
+"Pelatih"
+
+42
+00:02:51,705 --> 00:02:54,240
+Atau mungkin kita terdeteksi
+oleh filter keamanan mereka.
+
+43
+00:02:54,841 --> 00:02:56,576
+"Terdeteksi suara yang tidak cocok
+dengan suara VIP 0911"
+
+44
+00:02:56,643 --> 00:02:57,977
+Bisa jadi juga keduanya.
+
+45
+00:02:59,479 --> 00:03:02,048
+Astaga, kenapa yang mereka lakukan
+selalu di luar dugaan?
+
+46
+00:03:02,115 --> 00:03:05,118
+Pemantauan instan seperti ini
+biasanya menggunakan teknologi AI.
+
+47
+00:03:05,218 --> 00:03:07,754
+Tapi, mereka menggunakan AI
+dengan "deep learning" canggih ini?
+
+48
+00:03:08,154 --> 00:03:09,789
+Ini bukan sindikat prostitusi biasa.
+
+49
+00:03:09,789 --> 00:03:11,458
+Bukan pembuat aplikasi amatir
+
+50
+00:03:11,524 --> 00:03:14,561
+dan situs web,
+lalu menjalankannya bak arena judi.
+
+51
+00:03:14,761 --> 00:03:16,463
+Mereka ini benar-benar profesional.
+
+52
+00:03:21,001 --> 00:03:22,535
+Pengacara Yoon ke mana?
+
+53
+00:03:22,736 --> 00:03:27,007
+Dia pergi menemui temannya
+yang tadi mengirim bunga...
+
+54
+00:03:27,273 --> 00:03:29,609
+Teman? Siapa?
+
+55
+00:03:32,212 --> 00:03:33,780
+"Dari teman lama - Park Ju Hwan"
+
+56
+00:03:36,683 --> 00:03:38,418
+Di mana Pengacara Yoon?
+
+57
+00:03:47,427 --> 00:03:48,561
+Kapan kamu kembali
+
+58
+00:03:50,096 --> 00:03:53,533
+- ke Korea?
+- Itu sudah cerita lama.
+
+59
+00:03:54,000 --> 00:03:56,870
+Aku sering dipindah tugas di daerah,
+belum lama ini aku pindah ke Seoul.
+
+60
+00:03:59,172 --> 00:04:00,440
+Aku mampir sebentar
+
+61
+00:04:02,275 --> 00:04:03,576
+hanya untuk menyapamu.
+
+62
+00:04:06,146 --> 00:04:07,514
+"Kantor Polisi Daerah Mujin Seoul, Park Je Yeol"
+
+63
+00:04:07,881 --> 00:04:09,983
+Kamu mengganti namamu?
+
+64
+00:04:10,050 --> 00:04:11,751
+Kamu tahu sendiri.
+
+65
+00:04:11,751 --> 00:04:14,354
+Korban sering ganti nama
+setelah mengalami kecelakaan.
+
+66
+00:04:14,688 --> 00:04:17,090
+Karena mereka ingin lepas dari kejadian itu.
+
+67
+00:04:17,590 --> 00:04:19,359
+Kurasa karena itulah aku menjadi jaksa.
+
+68
+00:04:19,793 --> 00:04:24,230
+Karena sebelum pelakunya tertangkap,
+korban takkan bebas dari neraka.
+
+69
+00:04:25,131 --> 00:04:27,500
+Aku sangat memahaminya.
+
+70
+00:04:29,135 --> 00:04:31,638
+Korban?
+
+71
+00:04:31,738 --> 00:04:34,941
+Dengan kepala hancur seperti itu,
+aku jelas bukan pelakunya, bukan?
+
+72
+00:04:43,116 --> 00:04:44,517
+Aku turut prihatin atas kejadian itu.
+
+73
+00:04:44,818 --> 00:04:48,922
+Soal pelakunya yang tak tertangkap,
+dan juga kamu yang hilang ingatan.
+
+74
+00:05:00,633 --> 00:05:03,937
+Namun, untuk orang yang prihatin,
+kamu tega sekali mencampakkanku.
+
+75
+00:05:04,604 --> 00:05:07,574
+Kamu tak pernah menjengukku lagi
+di rumah sakit sekalipun.
+
+76
+00:05:07,807 --> 00:05:11,444
+Di saat seperti itu,
+kamu malah memutuskanku lewat pesan.
+
+77
+00:05:11,611 --> 00:05:14,781
+Kamu bayangkan betapa sakit hatiku.
+
+78
+00:05:15,281 --> 00:05:17,350
+Tapi, aku mengerti.
+
+79
+00:05:19,753 --> 00:05:21,187
+Komplikasi pendarahan otak...
+
+80
+00:05:22,155 --> 00:05:24,724
+Aku masih menderita karenanya sampai sekarang.
+
+81
+00:05:25,191 --> 00:05:29,863
+Kamu terlalu cantik untuk bersama
+pacar yang sakit-sakitan.
+
+82
+00:05:30,130 --> 00:05:31,131
+Tentu saja,
+
+83
+00:05:33,066 --> 00:05:34,467
+sekarang pun kamu masih
+
+84
+00:05:36,369 --> 00:05:37,537
+tetap memesona.
+
+85
+00:05:41,741 --> 00:05:44,511
+Lihat siapa yang datang. Ada wajah familier.
+
+86
+00:05:53,453 --> 00:05:55,855
+Mana mungkin aku mengabaikan teman yang kurindukan?
+
+87
+00:05:56,156 --> 00:05:57,357
+Tidak sopan namanya.
+
+88
+00:05:58,658 --> 00:05:59,959
+Panas sekali.
+
+89
+00:06:04,497 --> 00:06:05,699
+Lama tidak bertemu.
+
+90
+00:06:05,965 --> 00:06:09,269
+Benar. Sudah sekitar 20 tahun?
+
+91
+00:06:09,336 --> 00:06:12,005
+Kudengar kamu ke luar negeri,
+jadi, kukira kita takkan bertemu lagi.
+
+92
+00:06:12,339 --> 00:06:14,941
+Tapi sepertinya hidup memang penuh kejutan.
+
+93
+00:06:17,010 --> 00:06:19,879
+Kenapa? Memangnya ada alasan
+
+94
+00:06:20,213 --> 00:06:24,984
+- kamu tidak mau bertemu lagi?
+- Sejak dulu dulu membencimu.
+
+95
+00:06:25,552 --> 00:06:29,356
+Saat Ra Young pacaran denganmu,
+aku sudah menentangnya sejak awal.
+
+96
+00:06:37,197 --> 00:06:39,199
+"Park Je Yeol, Seoul Mujin Kantor Kejaksaan Daerah"
+
+97
+00:06:39,265 --> 00:06:41,001
+Kamu menjadi jaksa, rupanya?
+
+98
+00:06:41,868 --> 00:06:43,503
+Tapi kamu mengganti namamu.
+
+99
+00:06:44,237 --> 00:06:48,308
+Apa kamu melakukan kejahatan?
+Biasanya itu dilakukan mantan napi.
+
+100
+00:06:48,541 --> 00:06:51,478
+- Namamu masih sama, ya?
+- Karena di hadapan Tuhan
+
+101
+00:06:52,212 --> 00:06:54,347
+aku tidak punya alasan untuk merasa malu.
+
+102
+00:06:54,814 --> 00:06:58,385
+Syukurlah. Aku tak mau temanku jadi tersangka.
+
+103
+00:07:00,153 --> 00:07:01,621
+Reuni kita cukup sampai di sini.
+
+104
+00:07:02,055 --> 00:07:05,592
+- Lagi pula kita akan bertemu lagi.
+- Bertemu lagi?
+
+105
+00:07:06,493 --> 00:07:09,295
+Aku berencana menyelidiki ulang kasus waktu itu.
+
+106
+00:07:09,996 --> 00:07:13,767
+Karena kasusnya sudah lama sekali,
+mungkin aku butuh bantuan kalian.
+
+107
+00:07:15,635 --> 00:07:16,670
+Sampai bertemu lagi.
+
+108
+00:07:29,816 --> 00:07:30,950
+Ra Young.
+
+109
+00:07:31,785 --> 00:07:32,919
+Ra Young.
+
+110
+00:07:38,358 --> 00:07:39,459
+Ra Young.
+
+111
+00:07:41,061 --> 00:07:42,162
+Ra Young.
+
+112
+00:07:46,900 --> 00:07:48,702
+Yoon Ra Young!
+
+113
+00:07:49,602 --> 00:07:52,072
+Lihat aku.
+
+114
+00:07:53,673 --> 00:07:54,708
+Tidak apa-apa.
+
+115
+00:07:55,608 --> 00:07:56,976
+Ayo, bernapas.
+
+116
+00:07:57,510 --> 00:07:58,578
+Sekali lagi.
+
+117
+00:08:01,948 --> 00:08:03,016
+Bagus.
+
+118
+00:08:04,084 --> 00:08:05,085
+Sekali lagi.
+
+119
+00:08:07,687 --> 00:08:08,888
+Bagus.
+
+120
+00:08:10,490 --> 00:08:13,993
+Dasar bajingan.
+Berani-beraninya dia datang kemari?
+
+121
+00:08:19,032 --> 00:08:20,667
+"Aku menemukan aplikasi Connectin.
+Hubungi aku sebelum datang."
+
+122
+00:08:23,136 --> 00:08:26,339
+Apa sakit sekali? Mau suntikan pereda nyeri lagi?
+
+123
+00:08:29,175 --> 00:08:30,477
+Itu lagu Brahms.
+
+124
+00:08:31,845 --> 00:08:33,847
+Brahms dan Dvorak
+
+125
+00:08:34,147 --> 00:08:37,484
+Mahler, Bruckner, Shostakovich.
+
+126
+00:08:38,251 --> 00:08:42,589
+Untuk lukisan, Barok,
+Caravaggio Rubens, dan van Dyck.
+
+127
+00:08:42,956 --> 00:08:46,393
+Aku sudah membaca semua karya Stendhal dan Flaubert.
+
+128
+00:08:46,593 --> 00:08:50,697
+Aku juga menyukai John Steinbeck,
+Émile Zola, dan Victor Hugo.
+
+129
+00:08:51,231 --> 00:08:55,235
+Untuk anggur, Burgundy, dan untuk perayaan, Domaine Leroy.
+
+130
+00:08:55,535 --> 00:08:58,038
+Untuk wiski, Speyside single malt.
+
+131
+00:08:58,972 --> 00:09:00,273
+Seleramu bagus juga.
+
+132
+00:09:01,074 --> 00:09:02,809
+Anda yang mengajariku semua itu.
+
+133
+00:09:03,309 --> 00:09:05,245
+Semua hal yang kusukai.
+
+134
+00:09:07,047 --> 00:09:10,450
+Jika aku membuang semua yang kupelajari darimu,
+
+135
+00:09:11,584 --> 00:09:13,353
+kira-kira apa yang akan tersisa?
+
+136
+00:09:18,024 --> 00:09:20,093
+Aku menemukan aplikasi Connectin.
+
+137
+00:09:20,627 --> 00:09:22,028
+Di ponsel-mu.
+
+138
+00:09:40,080 --> 00:09:42,115
+Anda tidak akan mengelak, bukan?
+
+139
+00:09:45,018 --> 00:09:46,119
+Entahlah.
+
+140
+00:09:46,686 --> 00:09:49,889
+Aku tidak mengerti apa yang kamu maksud.
+
+141
+00:09:51,291 --> 00:09:53,960
+- Aku juga menemukan buktinya. Di ponsel-mu.
+- Jadi, bukti apa yang kamu maksud?
+
+142
+00:09:54,027 --> 00:09:57,497
+Jadi, bukti apa yang kamu maksud?
+
+143
+00:09:57,864 --> 00:09:58,998
+Coba periksa lagi.
+
+144
+00:10:01,201 --> 00:10:03,737
+Sepertinya kamu membuat keributan ini karena hal itu,
+
+145
+00:10:04,037 --> 00:10:05,238
+sayang sekali.
+
+146
+00:10:05,805 --> 00:10:06,940
+Dan satu hal lagi.
+
+147
+00:10:07,474 --> 00:10:10,010
+Kalaupun tuduhanmu itu benar,
+
+148
+00:10:10,877 --> 00:10:12,579
+memangnya kenapa?
+
+149
+00:10:13,446 --> 00:10:14,447
+Apa?
+
+150
+00:10:14,748 --> 00:10:18,385
+Bersikaplah dewasa, Shin Jae.
+Sebelum melangkah tanpa berpikir,
+
+151
+00:10:18,451 --> 00:10:20,320
+kamu harus memperhitungkannya.
+
+152
+00:10:22,188 --> 00:10:24,324
+Apa yang akan kamu dapatkan dari langkah ini
+
+153
+00:10:25,191 --> 00:10:26,626
+dan apa yang akan hilang darimu.
+
+154
+00:10:28,194 --> 00:10:32,065
+Sulit kupercaya. Apa itu ancaman?
+
+155
+00:10:34,034 --> 00:10:36,636
+Kamu hanya punya satu pilihan.
+
+156
+00:10:37,370 --> 00:10:39,039
+Pegang tanganku, atau...
+
+157
+00:10:39,472 --> 00:10:42,008
+seumur hidupmu terombang-ambing oleh pengaruh ibumu.
+
+158
+00:10:43,276 --> 00:10:46,746
+Pikirkanlah baik-baik.
+Jika kamu ingin melindungi L dan J.
+
+159
+00:10:47,247 --> 00:10:49,315
+Percuma saja kita bicara lebih lanjut.
+
+160
+00:10:50,183 --> 00:10:51,384
+Pergilah.
+
+161
+00:11:04,264 --> 00:11:06,199
+Bagaimana bisa Anda melakukan hal ini?
+
+162
+00:11:07,567 --> 00:11:09,769
+Justru kalian yang keterlaluan.
+
+163
+00:11:10,170 --> 00:11:11,938
+Apa begitu caraku mendidikmu?
+
+164
+00:11:12,339 --> 00:11:14,741
+Melanggar privasi orang lain seperti ini?
+
+165
+00:11:40,934 --> 00:11:43,303
+- Ada apa? Kenapa aplikasinya menghilang?
+- Nanti saja kita bicarakan itu.
+
+166
+00:11:43,370 --> 00:11:46,639
+Kita kedatangan bencana besar.
+
+167
+00:11:48,141 --> 00:11:49,175
+Park Ju Hwan.
+
+168
+00:11:49,576 --> 00:11:52,345
+Apa maksudmu? Park Ju Hwan?
+
+169
+00:11:52,512 --> 00:11:56,883
+Dia datang ke kantor.
+Bajingan itu ternyata seorang jaksa.
+
+170
+00:11:57,584 --> 00:11:58,785
+Bagaimana dengan Ra Young?
+
+171
+00:12:09,429 --> 00:12:12,132
+Aku tidak apa-apa.
+Aku bukan gadis 20-an lagi.
+
+172
+00:12:12,932 --> 00:12:15,669
+Aku selalu bilang pada klien
+kalau semua akan baik-baik saja,
+
+173
+00:12:15,769 --> 00:12:17,504
+jadi, aku juga harus baik-baik saja.
+
+174
+00:12:21,207 --> 00:12:24,010
+Aku mau makan makanan pedas.
+Yang benar-benar pedas.
+
+175
+00:12:24,144 --> 00:12:25,679
+Hari ini kita membutuhkan itu.
+
+176
+00:12:40,760 --> 00:12:42,862
+Ayo, cepat siapkan. Aku lapar.
+
+177
+00:12:43,363 --> 00:12:45,065
+Jadi, apa yang harus kita lakukan?
+
+178
+00:12:55,342 --> 00:12:57,043
+Kapan katanya dia kembali ke Korea?
+
+179
+00:12:57,444 --> 00:12:58,878
+Sepertinya sudah cukup lama.
+
+180
+00:13:00,313 --> 00:13:02,449
+Seharusnya kita mengawasinya lebih ketat.
+
+181
+00:13:02,716 --> 00:13:04,517
+Sebelum dia muncul di hadapan kita seperti ini.
+
+182
+00:13:04,851 --> 00:13:08,254
+Siapa sangka dia akan mengganti namanya?
+
+183
+00:13:09,255 --> 00:13:10,657
+Jadi, bagaimana kelihatannya?
+
+184
+00:13:10,990 --> 00:13:12,659
+Apa dia terlihat sudah ingat semuanya?
+
+185
+00:13:13,426 --> 00:13:14,661
+Sulit dikatakan.
+
+186
+00:13:15,328 --> 00:13:18,898
+Aku ragu dia menjajaki kemungkinan
+karena menyelidiki ulang,
+
+187
+00:13:18,898 --> 00:13:19,966
+atau karena dia ingat sesuatu.
+
+188
+00:13:25,872 --> 00:13:29,743
+Aku lebih suka jika ingatannya belum kembali.
+
+189
+00:13:30,643 --> 00:13:34,280
+Jika dia bersikap tak tahu malu
+padahal tahu perbuatannya padaku,
+
+190
+00:13:34,914 --> 00:13:35,915
+itu akan sangat
+
+191
+00:13:37,283 --> 00:13:38,485
+menyiksaku.
+
+192
+00:13:39,452 --> 00:13:40,820
+Aku tidak akan bisa memaafkannya.
+
+193
+00:13:57,837 --> 00:13:58,905
+Pengacara Yoon?
+
+194
+00:14:02,809 --> 00:14:03,877
+Min Seo.
+
+195
+00:14:05,145 --> 00:14:06,746
+Sepertinya aku salah makan.
+
+196
+00:14:07,447 --> 00:14:08,515
+Aku tidak apa-apa.
+
+197
+00:14:09,549 --> 00:14:11,384
+Jangan khawatirkan aku dan beristirahatlah.
+
+198
+00:14:24,631 --> 00:14:29,469
+"Kantor Polisi Mujin"
+
+199
+00:14:34,407 --> 00:14:37,977
+- Hei, Kepala Tim mencarimu.
+- Ya.
+
+200
+00:14:41,781 --> 00:14:43,950
+- Seung Jin.
+- Ya?
+
+201
+00:14:44,884 --> 00:14:47,721
+Kamu kenal orang ini?
+
+202
+00:14:50,190 --> 00:14:54,327
+Hei, wajahnya tampak familier. Siapa, ya?
+
+203
+00:14:54,928 --> 00:14:59,099
+- Ini Jaksa Park Je Yeol, bukan?
+- Benar, "kan? Jaksa Park Je Yeol?
+
+204
+00:14:59,265 --> 00:15:01,267
+Ya, sepertinya begitu.
+
+205
+00:15:01,601 --> 00:15:03,503
+Sepertinya dia teman sekelas istrimu.
+
+206
+00:15:04,004 --> 00:15:07,540
+Wajar saja, orang-orang hebat
+biasanya bergaul dengan sesama.
+
+207
+00:15:11,044 --> 00:15:12,512
+Kenapa dia ganti nama?
+
+208
+00:15:13,446 --> 00:15:16,983
+Cepat temui Kepala Tim.
+Nanti dia marah lagi jika terlambat.
+
+209
+00:15:17,283 --> 00:15:18,551
+- Baiklah. Aku pergi dulu.
+- Ya.
+
+210
+00:15:19,652 --> 00:15:21,221
+- Anda memanggilku, Pak?
+- Ya.
+
+211
+00:15:21,254 --> 00:15:22,489
+"Kantor Polisi Seoul Mujin"
+
+212
+00:15:22,622 --> 00:15:24,290
+Berapa kasus yang sedang kamu tangani saat ini?
+
+213
+00:15:24,824 --> 00:15:26,326
+- Kasus pencurian berantai Samyang-dong...
+- Bisa kutambah satu berkas lagi, 'kan?
+
+214
+00:15:26,393 --> 00:15:28,795
+Bisa kutambah satu berkas lagi, 'kan?
+
+215
+00:15:31,631 --> 00:15:34,834
+Ini kasus dari 20 tahun lalu,
+tangani dengan perhatian khusus.
+
+216
+00:15:35,368 --> 00:15:37,671
+Korban adalah seorang jaksa aktif.
+
+217
+00:15:41,975 --> 00:15:43,376
+"Laporan pernyataan saksi"
+
+218
+00:15:44,978 --> 00:15:46,079
+"Percobaan pembunuhan mahasiswa Universitas Hanguk 2005"
+
+219
+00:15:46,146 --> 00:15:47,213
+Mungkinkah
+
+220
+00:15:48,281 --> 00:15:51,284
+- korbannya Jaksa Park Je Yeol?
+- Ya, benar.
+
+221
+00:15:52,118 --> 00:15:54,954
+Dia yang memintamu menanganinya.
+Kalian saling kenal?
+
+222
+00:15:56,823 --> 00:15:57,891
+"Percobaan pembunuhan mahasiswa Universitas Hanguk 2005"
+
+223
+00:15:59,526 --> 00:16:01,327
+"Park Je Yeol, Kantor Kejaksaan Wilayah Seoul Mujin"
+
+224
+00:16:03,830 --> 00:16:05,098
+Ada yang aneh, bukan?
+
+225
+00:16:05,198 --> 00:16:08,201
+Park Ju Hwan adalah jaksa kasus Yoo Jeong?
+
+226
+00:16:08,268 --> 00:16:10,470
+Bahkan, penugasan kasusnya diubah.
+
+227
+00:16:10,704 --> 00:16:14,074
+- Dia sengaja ambil kasus Yoo Jeong?
+- Mungkin saja.
+
+228
+00:16:14,574 --> 00:16:16,743
+Tapi, kamu tahu apa yang lebih aneh?
+
+229
+00:16:17,644 --> 00:16:20,680
+Park Ju Hwan juga pernah bertemu Jo Yoo Jeong setahun lalu.
+
+230
+00:16:20,747 --> 00:16:22,148
+Dia tersangka dalam kasus pencurian berat.
+
+231
+00:16:22,716 --> 00:16:24,017
+Apa ini kebetulan?
+
+232
+00:16:24,084 --> 00:16:27,187
+Kita bisa memastikannya.
+Aku akan menemui kakak Yoo Jeong.
+
+233
+00:16:30,223 --> 00:16:32,792
+Yoo Jeong tidak benar-benar berniat mencurinya.
+
+234
+00:16:33,393 --> 00:16:35,195
+Di toko tempatnya bekerja paruh waktu,
+
+235
+00:16:35,595 --> 00:16:37,797
+dia tak sengaja tumpahkan minuman ke tas pelanggan.
+
+236
+00:16:38,198 --> 00:16:39,933
+Sepertinya adikku panik.
+
+237
+00:16:40,200 --> 00:16:44,704
+Dia dan teman kerjanya membawa tas itu
+untuk dibersihkan.
+
+238
+00:16:44,771 --> 00:16:46,406
+Tapi perbuatan itu malah dianggap pencurian.
+
+239
+00:16:47,240 --> 00:16:50,243
+Pelanggan itu tidak mau berdamai,
+jadi, kami sangat cemas,
+
+240
+00:16:50,410 --> 00:16:53,580
+tapi untungnya,
+jaksa memberikan penangguhan penuntutan.
+
+241
+00:16:53,847 --> 00:16:56,282
+Pencurian dengan pemberatan tanpa ada perdamaian
+
+242
+00:16:56,583 --> 00:16:57,851
+Diberi penangguhan penuntutan?
+
+243
+00:17:01,154 --> 00:17:02,489
+Min Seo, apa kamu pernah,
+
+244
+00:17:02,822 --> 00:17:05,125
+bertemu dengan jaksa bernama Park Je Yeol?
+
+245
+00:17:05,291 --> 00:17:07,327
+Tidak, aku tidak pernah bertemu.
+
+246
+00:17:08,328 --> 00:17:12,499
+Min Seo, bagaimana kamu bisa mulai bekerja di Connect?
+
+247
+00:17:12,832 --> 00:17:14,100
+Kalian kenal Lee Seon Hwa, bukan?
+
+248
+00:17:14,668 --> 00:17:17,337
+- Itu karena dia.
+- Lee Seon Hwa?
+
+249
+00:17:17,837 --> 00:17:20,273
+Dia punya utang atas namaku,
+
+250
+00:17:20,340 --> 00:17:22,442
+dan katanya sebagian dialihkan ke pihak mereka.
+
+251
+00:17:22,575 --> 00:17:25,578
+Untuk melunasinya, aku harus bekerja di Connect.
+
+252
+00:17:33,620 --> 00:17:35,088
+"Laporan kasus"
+
+253
+00:17:35,155 --> 00:17:36,156
+"Penyalahgunaan narkotika berulang"
+
+254
+00:17:46,266 --> 00:17:48,935
+- Hei, di mana Lee Seon Hwa?
+- Seon Hwa sudah kabur.
+
+255
+00:17:49,336 --> 00:17:50,570
+Kamu tidak tahu ke mana dia pergi?
+
+256
+00:17:50,637 --> 00:17:53,506
+Astaga, kalau tahu, sudah aku kejar.
+Uangku juga dibawa lari olehnya.
+
+257
+00:17:53,673 --> 00:17:56,876
+Perempuan itu benar-benar licik dan serakah.
+
+258
+00:17:58,445 --> 00:18:01,481
+Ini barang-barang Seon Hwa,
+kupikir ada sesuatu yang berharga,
+
+259
+00:18:01,548 --> 00:18:03,550
+tapi ternyata isinya sampah semua.
+
+260
+00:18:09,789 --> 00:18:11,324
+Surat pemanggilan persidangan.
+
+261
+00:18:11,391 --> 00:18:15,495
+Mungkin karena itu dia kabur.
+Dia pernah dapat penangguhan penuntutan.
+
+262
+00:18:15,495 --> 00:18:17,731
+- Sepertinya dia tertangkap lagi.
+- Penangguhan penuntutan?
+
+263
+00:18:17,731 --> 00:18:20,967
+Benar, si perempuan licik itu.
+Kali ini dia masuk penjara, bukan?
+
+264
+00:18:21,034 --> 00:18:22,168
+Ini sudah pelanggaran keempatnya.
+
+265
+00:18:22,502 --> 00:18:24,571
+- Sial, uangku.
+- Tunggu.
+
+266
+00:18:24,971 --> 00:18:26,606
+Dia sudah melakukan tiga pelanggaran,
+
+267
+00:18:26,673 --> 00:18:28,041
+tapi masih diberi penangguhan penuntutan?
+
+268
+00:18:28,308 --> 00:18:31,144
+Kamu bilang mau bunuh mereka nanti, itu ancaman.
+
+269
+00:18:31,878 --> 00:18:34,814
+Kamu membawa tongkat berpaku, itu unsur pemberatan.
+
+270
+00:18:38,318 --> 00:18:40,620
+Selama kamu dipenjara tujuh tahun
+karena ancaman yang diperparah,
+
+271
+00:18:41,254 --> 00:18:43,490
+kamu sudah putuskan
+akan mengirim adikmu ke panti asuhan mana?
+
+272
+00:18:44,824 --> 00:18:48,895
+Aku melakukannya karena marah
+sebab mereka menindas adikku.
+
+273
+00:18:50,430 --> 00:18:54,567
+Pak, tolong beri aku ampunan sekali ini saja.
+
+274
+00:18:57,337 --> 00:18:59,072
+Memberimu pengampunan?
+
+275
+00:19:02,475 --> 00:19:03,610
+Kamu mau kuampuni?
+
+276
+00:19:05,011 --> 00:19:06,212
+Kamu benar-benar mau kuampuni?
+
+277
+00:19:06,846 --> 00:19:08,915
+Ya. Kumohon.
+
+278
+00:19:12,752 --> 00:19:13,953
+Baiklah.
+
+279
+00:19:14,688 --> 00:19:15,689
+Benarkah?
+
+280
+00:19:16,222 --> 00:19:17,857
+Itu tergantung padamu.
+
+281
+00:19:20,527 --> 00:19:22,028
+"Jo Yoo Jeong, Jaksa Park Je Yeol, Lee Seon Hwa"
+
+282
+00:19:22,095 --> 00:19:23,530
+Lihat ini.
+
+283
+00:19:27,934 --> 00:19:30,270
+Kedua wanita, setelah dituntut Park Ju Hwan...
+
+284
+00:19:31,004 --> 00:19:32,072
+Bukan.
+
+285
+00:19:32,572 --> 00:19:36,076
+Melalui Jaksa Park Je Yeol,
+mereka menerima dakwaan yang ditangguhkan,
+
+286
+00:19:36,209 --> 00:19:38,912
+dan mereka dieksploitasi di Connect.
+
+287
+00:19:38,978 --> 00:19:40,613
+Dalam kasus Lee Seon Hwa,
+Min Seo yang menggantikannya.
+
+288
+00:19:41,314 --> 00:19:43,850
+Ini sudah jelas, sebagian dari para korban
+
+289
+00:19:43,917 --> 00:19:45,985
+mungkin disalurkan ke aplikasi itu
+
+290
+00:19:46,052 --> 00:19:47,053
+melalui Park Je Yeol.
+
+291
+00:19:47,120 --> 00:19:48,188
+Menyalahgunakan wewenang penuntutannya.
+
+292
+00:19:50,523 --> 00:19:52,859
+Jadi, Park Je Yeol juga bagian dari Connect?
+
+293
+00:19:57,330 --> 00:19:59,332
+Maksudmu ini adalah komplotan
+yang bahkan melibatkan jaksa?
+
+294
+00:19:59,632 --> 00:20:02,369
+Jika benar begitu, semua teka-tekinya terpecahkan.
+
+295
+00:20:03,103 --> 00:20:05,705
+Termasuk siapa yang terus menyerang kita
+menggunakan masa lalu kita.
+
+296
+00:20:06,039 --> 00:20:08,074
+Tapi, satu-satunya bukti yang kita miliki sekarang
+
+297
+00:20:08,408 --> 00:20:09,843
+hanyalah bukti tidak langsung.
+
+298
+00:20:10,910 --> 00:20:13,480
+Seandainya saja aplikasi sialan ini tidak dihancurkan...
+
+299
+00:20:15,749 --> 00:20:16,850
+Kamu sudah memutuskan?
+
+300
+00:20:17,684 --> 00:20:19,619
+Apa yang akan kamu lakukan soal Pengacara Kwon?
+
+301
+00:20:21,521 --> 00:20:23,323
+Keputusan apa lagi yang diperlukan?
+
+302
+00:20:24,057 --> 00:20:26,726
+Kini aku tahu siapa dalang
+di balik aplikasi terkutuk ini.
+
+303
+00:20:28,228 --> 00:20:29,696
+"Jo Yoo Jeong, Jaksa Park Je Yeol, Lee Seon Hwa"
+
+304
+00:20:29,763 --> 00:20:30,997
+Pencurian berat, penangguhan dakwaan?"
+
+305
+00:20:31,064 --> 00:20:32,365
+"Penggunaan narkoba, penangguhan dakwaan?"
+
+306
+00:20:44,077 --> 00:20:46,613
+Ini baru tiba lewat kurir, Pak.
+Dari Pengacara Kang Shin Jae.
+
+307
+00:20:52,619 --> 00:20:53,987
+"Hukum Republik Korea
+tidak menyebut apa yang Anda lakukan sebagai..."
+
+308
+00:20:57,190 --> 00:20:58,491
+"Pengacara Utama Kang Shin Jae"
+
+309
+00:20:58,892 --> 00:21:01,061
+Hukum Republik Korea menyebut perbuatan Anda
+
+310
+00:21:01,327 --> 00:21:03,396
+sebagai privasi, tapi tindakan kriminal.
+
+311
+00:21:04,431 --> 00:21:08,134
+Jika angin berembus, aku bergoyang.
+Meski begitu, bunga tetaplah mekar.
+
+312
+00:21:12,772 --> 00:21:16,576
+Pengacara yang mengundurkan diri
+menunggu di lokasi pertemuan, Pak.
+
+313
+00:21:16,943 --> 00:21:18,078
+Bagaimana, Pak?
+
+314
+00:21:19,212 --> 00:21:20,580
+Jika mereka sudah menyatukan tekad,
+
+315
+00:21:21,781 --> 00:21:23,049
+kita harus membuka jalannya.
+
+316
+00:21:24,317 --> 00:21:25,452
+Berangkat.
+
+317
+00:21:31,691 --> 00:21:32,926
+Selamat datang.
+
+318
+00:21:34,694 --> 00:21:35,895
+Aku boleh duduk di depanmu, "kan?
+
+319
+00:21:42,268 --> 00:21:45,238
+- Lama tidak bertemu.
+- Aku dengar kamu mencariku,
+
+320
+00:21:45,572 --> 00:21:46,906
+setidaknya kita harus saling menyapa.
+
+321
+00:21:48,842 --> 00:21:50,243
+Bagaimana kamu tahu aku di sini?
+
+322
+00:21:50,577 --> 00:21:54,514
+Di lingkungan ini, jika aku mau,
+tidak ada yang tidak bisa kutemukan.
+
+323
+00:21:55,382 --> 00:21:56,483
+Kamu terlihat baik-baik saja.
+
+324
+00:21:59,386 --> 00:22:00,387
+Sangat baik.
+
+325
+00:22:00,920 --> 00:22:04,357
+Aku merasa lengan kananku terbakar
+beberapa kali sehari,
+
+326
+00:22:04,724 --> 00:22:08,228
+dan setiap hari aku minum
+segenggam pereda nyeri,
+
+327
+00:22:09,295 --> 00:22:10,397
+tapi aku sangat baik-baik saja.
+
+328
+00:22:11,231 --> 00:22:12,232
+Jadi,
+
+329
+00:22:12,532 --> 00:22:14,234
+kamu baru mau membalas dendam sekarang?
+
+330
+00:22:14,901 --> 00:22:18,672
+Kenapa? Kalian baru takut soal itu sekarang?
+
+331
+00:22:21,241 --> 00:22:23,810
+- Ingatanmu sudah kembali.
+- Hanya ingatanku?
+
+332
+00:22:24,477 --> 00:22:25,779
+Aku juga sudah mendapatkan buktinya.
+
+333
+00:22:37,457 --> 00:22:39,426
+DNA yang coba kalian selundupkan
+
+334
+00:22:40,360 --> 00:22:44,631
+cocok dengan DNA tersangka
+yang tertinggal di TKP waktu itu.
+
+335
+00:22:49,202 --> 00:22:50,837
+Kalau begitu, kamu juga pasti ingat
+
+336
+00:22:51,371 --> 00:22:54,808
+perbuatanmu pada Ra Young pada malam itu.
+
+337
+00:22:58,144 --> 00:23:01,481
+Apa gunanya membahas itu sekarang, Shin Jae?
+
+338
+00:23:01,614 --> 00:23:03,483
+Kalian tidak akan bisa membuktikannya.
+
+339
+00:23:03,950 --> 00:23:06,519
+- Apa?
+- Ra Young dan aku pernah kencan.
+
+340
+00:23:07,053 --> 00:23:09,923
+Kami hanya saling mencintai,
+seperti orang lain pada umumnya.
+
+341
+00:23:11,524 --> 00:23:13,560
+Orang-orang sangat membenci kalian.
+
+342
+00:23:13,893 --> 00:23:15,862
+Kalian menyebalkan dan melelahkan.
+
+343
+00:23:16,262 --> 00:23:18,798
+Jika aku melemparkan beberapa kayu bakar
+ke dalam api itu,
+
+344
+00:23:19,165 --> 00:23:22,469
+siapa yang akan terbakar habis?
+Aku, atau kalian?
+
+345
+00:23:24,971 --> 00:23:26,072
+Apa maumu?
+
+346
+00:23:26,673 --> 00:23:29,042
+Mundurlah dari Connect.
+
+347
+00:23:30,510 --> 00:23:31,945
+Bagaimana jika aku tidak mau?
+
+348
+00:23:35,648 --> 00:23:37,384
+Apa kamu benar-benar siap untuk hancur?
+
+349
+00:23:39,652 --> 00:23:40,820
+Tentu saja aku siap.
+
+350
+00:23:42,622 --> 00:23:45,425
+Orang yang akan paling terluka dalam pertarungan ini...
+
+351
+00:23:47,060 --> 00:23:48,294
+adalah Yoon Ra Young.
+
+352
+00:24:12,485 --> 00:24:13,687
+Maaf aku terlambat.
+
+353
+00:24:18,792 --> 00:24:19,993
+Kenapa hanya berdiri di sana?
+
+354
+00:24:22,295 --> 00:24:23,663
+Mulailah apa yang ingin kamu lakukan.
+
+355
+00:24:25,231 --> 00:24:28,435
+Kalian hanya menunggu hari
+untuk menodongkan pisau kepadaku.
+
+356
+00:24:33,406 --> 00:24:34,808
+Kenapa tidak ada yang bicara?
+
+357
+00:24:35,442 --> 00:24:37,010
+- Ibu Pimpinan...
+- Kalau begitu
+
+358
+00:24:38,178 --> 00:24:39,579
+Biar aku yang mulai.
+
+359
+00:24:40,647 --> 00:24:42,515
+Aku mengerti niat kalian semua,
+
+360
+00:24:42,949 --> 00:24:45,218
+dan akan aku proses semuanya saat ini juga.
+
+361
+00:24:49,122 --> 00:24:50,123
+"Surat Pengunduran Diri"
+
+362
+00:24:57,063 --> 00:24:58,465
+Terima kasih, Pengacara Kwon.
+
+363
+00:24:58,865 --> 00:25:01,534
+Aku sudah lama bermaksud
+memisahkan yang baik dari yang buruk,
+
+364
+00:25:01,668 --> 00:25:04,738
+dan kamu baru saja memilah semua yang buruk.
+
+365
+00:25:06,039 --> 00:25:08,842
+Sepertinya kalian semua sedang salah paham.
+
+366
+00:25:09,909 --> 00:25:12,445
+Bukan kalian yang membuat Haeil
+menjadi seperti sekarang.
+
+367
+00:25:12,979 --> 00:25:15,815
+Haeil-lah yang membuat kalian
+menjadi seperti sekarang.
+
+368
+00:25:18,451 --> 00:25:20,453
+Orang yang berani menentangku
+
+369
+00:25:21,221 --> 00:25:22,622
+akan kusingkirkan.
+
+370
+00:25:23,189 --> 00:25:24,591
+Aku tidak pernah gagal
+
+371
+00:25:25,225 --> 00:25:28,128
+menyingkirkan pengkhianat dari industri ini.
+
+372
+00:25:31,965 --> 00:25:34,834
+Mohon maafkan kami, Bu. Kami telah bertindak bodoh.
+
+373
+00:25:36,236 --> 00:25:37,270
+Kami bersalah.
+
+374
+00:25:39,305 --> 00:25:40,740
+- Mohon maafkan kami.
+- Mohon maafkan kami.
+
+375
+00:25:53,520 --> 00:25:54,921
+Saat kita masih muda dulu,
+
+376
+00:25:55,388 --> 00:25:58,091
+kita bilang kita muak
+hanya mendengarkan kuliah hukum,
+
+377
+00:25:58,658 --> 00:26:01,494
+jadi, kita sering ikutan kuliah di fakultas lain.
+
+378
+00:26:02,762 --> 00:26:03,863
+Kamu ingat?
+
+379
+00:26:04,431 --> 00:26:05,432
+Ya.
+
+380
+00:26:06,866 --> 00:26:10,570
+Waktu itu di fakultas sastra,
+kita ambil Pengantar Sastra, bukan?
+
+381
+00:26:12,906 --> 00:26:17,377
+Aku tidak suka King Lear, Hamlet, ataupun Macbeth.
+
+382
+00:26:20,213 --> 00:26:23,683
+Karena takhta para raja itu direbut dengan bodohnya.
+
+383
+00:26:29,889 --> 00:26:30,957
+Jung Hyeon.
+
+384
+00:26:31,524 --> 00:26:33,593
+Kalau anak kecil bertingkah, kamu harus menasihatinya.
+
+385
+00:26:33,893 --> 00:26:35,695
+Kenapa kamu malah menurutinya?
+
+386
+00:26:42,469 --> 00:26:43,636
+Aku sungguh malu.
+
+387
+00:26:45,405 --> 00:26:46,406
+Benar.
+
+388
+00:26:47,874 --> 00:26:49,943
+Kamu memang seharusnya malu.
+
+389
+00:26:51,144 --> 00:26:52,379
+Sudah kuduga.
+
+390
+00:26:53,246 --> 00:26:54,914
+Alasan Park Je Yeol muncul.
+
+391
+00:26:57,050 --> 00:27:00,420
+Dia mau hentikan kita kejar Connect
+dengan masalah masa lalu itu.
+
+392
+00:27:02,722 --> 00:27:04,290
+Bagaimana jika Park Je Yeol benar-benar
+
+393
+00:27:04,991 --> 00:27:06,192
+membongkar masalah itu?
+
+394
+00:27:07,861 --> 00:27:09,662
+Hyeon Jin yang akan paling terancam.
+
+395
+00:27:12,198 --> 00:27:14,868
+Tapi kita tidak bisa menyerah begitu saja.
+
+396
+00:27:15,602 --> 00:27:17,003
+Apalagi pada bajingan itu.
+
+397
+00:27:17,404 --> 00:27:20,607
+- Skenario terburuknya, kamu akan...
+- Ditahan?
+
+398
+00:27:22,642 --> 00:27:26,212
+Apa para pengacara di sini akan tinggal diam?
+
+399
+00:27:27,614 --> 00:27:30,083
+Tapi bisa saja kita
+
+400
+00:27:30,950 --> 00:27:32,485
+akan kehilangan segalanya.
+
+401
+00:27:34,254 --> 00:27:35,822
+Semua yang telah kita bangun selama ini.
+
+402
+00:27:39,359 --> 00:27:41,561
+Tapi jika kita bertekad
+untuk berjuang sampai akhir,
+
+403
+00:27:41,628 --> 00:27:44,130
+pendapatmu adalah yang terpenting
+bagiku dan Hyeon Jin.
+
+404
+00:27:44,631 --> 00:27:47,300
+Apa kamu sanggup menanggung
+semua yang akan terjadi nanti?
+
+405
+00:27:52,906 --> 00:27:55,942
+Lalu soal DNA tempo hari,
+yang diambil oleh Seong Gyu
+
+406
+00:27:56,242 --> 00:27:57,777
+DNA itu jatuh ke tangan Park Je Yeol.
+
+407
+00:27:58,745 --> 00:28:01,981
+- Apa maksudmu?
+- Jadi, kamu tak punya dugaan?
+
+408
+00:28:03,350 --> 00:28:06,186
+Kamu tahu siapa suamiku?
+
+409
+00:28:06,653 --> 00:28:07,954
+Dia seorang jaksa aktif.
+
+410
+00:28:25,005 --> 00:28:26,006
+Ju Hwan.
+
+411
+00:28:27,007 --> 00:28:28,008
+Park Ju Hwan.
+
+412
+00:28:30,577 --> 00:28:32,412
+Ju Hwan, aku sudah mencarimu dari tadi.
+
+413
+00:28:32,679 --> 00:28:34,914
+Sudah kubilang jangan tersenyum pada bajingan lain.
+
+414
+00:28:35,849 --> 00:28:38,985
+Aku minta maaf. Ayo pergi, yang lain menunggu.
+
+415
+00:28:40,120 --> 00:28:41,621
+Kamu sama sekali tidak mencintaiku.
+
+416
+00:28:42,856 --> 00:28:44,124
+Selalu hanya di mulut saja.
+
+417
+00:28:45,158 --> 00:28:46,693
+Lalu aku harus bagaimana?
+
+418
+00:28:46,960 --> 00:28:48,161
+Bagaimana caranya agar kamu percaya?
+
+419
+00:28:49,429 --> 00:28:50,497
+Buktikan.
+
+420
+00:28:51,331 --> 00:28:52,399
+Kamu gila?
+
+421
+00:28:55,101 --> 00:28:56,703
+Lepaskan, jangan!
+
+422
+00:29:01,107 --> 00:29:02,108
+Jangan!
+
+423
+00:29:35,709 --> 00:29:38,745
+Kenapa kamu murung begitu pada Ayah
+hanya karena salah beberapa soal?
+
+424
+00:29:39,312 --> 00:29:41,314
+Aku salah karena kuganti jawabanku.
+
+425
+00:29:41,881 --> 00:29:42,982
+Menyebalkan sekali.
+
+426
+00:29:43,683 --> 00:29:45,685
+Kalau kamu terus begitu, kamu akan menyesal.
+
+427
+00:29:46,386 --> 00:29:47,387
+Ini.
+
+428
+00:29:48,855 --> 00:29:50,056
+"Konser super!"
+
+429
+00:29:51,257 --> 00:29:53,927
+Luar biasa. Ayah, bagaimana Ayah bisa dapat ini?
+
+430
+00:29:54,294 --> 00:29:56,062
+Bagaimana lagi, tentu saja Ayah memesannya.
+
+431
+00:29:56,363 --> 00:29:59,265
+Ayah bisa jadi ahli perang tiket gara-gara ini.
+
+432
+00:29:59,966 --> 00:30:01,167
+Ayah, terima kasih.
+
+433
+00:30:07,340 --> 00:30:10,777
+- Sedang apa, Ayah? Ibu menunggu.
+- Ya, ayo masuk.
+
+434
+00:30:41,675 --> 00:30:42,742
+"Kartu Keluarga"
+
+435
+00:30:42,809 --> 00:30:44,310
+"Hong Yeon Hee, Suami: Park Je Yeol,
+Anak: Park Sang A"
+
+436
+00:30:54,354 --> 00:30:56,990
+- Pencernaanmu tidak enak?
+- Bukan, perut bagian bawahku.
+
+437
+00:30:59,426 --> 00:31:01,995
+Kamu yakin bukan nyeri haid?
+Mau kuambilkan pereda nyeri?
+
+438
+00:31:12,405 --> 00:31:13,440
+Ada apa ini?
+
+439
+00:31:16,710 --> 00:31:17,877
+Kamu sedang apa?
+
+440
+00:31:20,280 --> 00:31:21,448
+Itu...
+
+441
+00:31:22,649 --> 00:31:25,418
+- Ada perintah dari atasan...
+- Perintah apa?
+
+442
+00:31:33,159 --> 00:31:34,728
+"Pengacara Utama Kang Shin Jae"
+
+443
+00:31:36,830 --> 00:31:39,366
+Aku Kwon Jung Hyeon, pimpinan baru LnJ.
+
+444
+00:31:40,066 --> 00:31:41,134
+Mohon kerja samanya.
+
+445
+00:31:42,235 --> 00:31:43,269
+"Pengacara Utama Kwon Jung Hyeon"
+
+446
+00:31:46,473 --> 00:31:48,008
+Apa yang kamu lakukan?
+
+447
+00:31:48,375 --> 00:31:51,011
+Pesan yang kamu kirim, inilah jawabanku.
+
+448
+00:31:51,711 --> 00:31:53,813
+Kamu seharusnya malu.
+
+449
+00:31:54,414 --> 00:31:58,118
+- Kamu harus tanggung akibatnya.
+- Soal Shin Jae...
+
+450
+00:32:00,620 --> 00:32:02,555
+Aku akan bertanggung jawab
+dan mengirimnya ke Haeil.
+
+451
+00:32:04,491 --> 00:32:06,192
+Aku akan mengundurkan diri dari semua jabatanku.
+
+452
+00:32:06,693 --> 00:32:08,161
+Tolong kirim aku ke LnJ.
+
+453
+00:32:10,897 --> 00:32:12,799
+Ujian sekecil ini harus bisa kamu atasi.
+
+454
+00:32:14,100 --> 00:32:15,802
+Lepaskan semua kasus yang sedang kalian tangani.
+
+455
+00:32:16,302 --> 00:32:20,974
+Aku akan mengubah arah firma ini.
+Yang rentan bukan hanya perempuan.
+
+456
+00:32:22,876 --> 00:32:24,778
+Kamu tidak bisa berbuat seenaknya.
+
+457
+00:32:25,111 --> 00:32:26,246
+Kami mengorbankan waktu luang kami
+untuk mengambil
+
+458
+00:32:26,312 --> 00:32:28,348
+banyak kasus pro bono.
+
+459
+00:32:28,515 --> 00:32:29,549
+Jika kamu ingin kami melepas semuanya...
+
+460
+00:32:29,616 --> 00:32:31,851
+Sepertinya ada juga kasus
+dengan opini publik yang buruk.
+
+461
+00:32:32,819 --> 00:32:36,389
+Kenapa nama firma harus tercoreng
+karena kegiatan sukarela kalian?
+
+462
+00:32:38,324 --> 00:32:41,861
+Memangnya kalian pikir siapa yang menggaji kalian?
+
+463
+00:32:42,395 --> 00:32:45,365
+Kini, penerimaan dan pembagian kasus
+tidak akan bisa tanpa persetujuanku.
+
+464
+00:32:45,932 --> 00:32:47,667
+Saat rapat komite pengarah tahun depan,
+
+465
+00:32:48,101 --> 00:32:50,403
+aku tidak mau dicap sebagai
+penanggung jawab tak kompeten.
+
+466
+00:32:51,371 --> 00:32:52,739
+Seperti dirimu, Shin Jae.
+
+467
+00:32:53,273 --> 00:32:55,241
+Ini karena Connect, bukan?
+
+468
+00:32:55,642 --> 00:32:57,577
+Untuk menghentikan kami membongkar Connect.
+
+469
+00:32:58,011 --> 00:33:00,213
+- Bukan begitu?
+- Entahlah,
+
+470
+00:33:00,547 --> 00:33:03,883
+aku tak tahu yang kalian bicarakan,
+tapi yang aku tahu
+
+471
+00:33:04,050 --> 00:33:07,821
+kasus Jo Yoo Jeong yang ditangani
+ditutup karena korban bunuh diri.
+
+472
+00:33:08,321 --> 00:33:12,625
+Ini bukan taman bermain untuk kalian
+membuang waktu menulis novel konyol.
+
+473
+00:33:24,437 --> 00:33:26,239
+Nomor yang Anda tuju tidak dapat dihubungi
+
+474
+00:33:26,339 --> 00:33:28,208
+"Ibu"
+
+475
+00:33:31,745 --> 00:33:34,147
+"Lee Seon Hwa"
+
+476
+00:33:36,383 --> 00:33:38,084
+Aku sudah tahu semua perbuatanmu padaku.
+
+477
+00:33:38,618 --> 00:33:39,652
+Telepon aku.
+
+478
+00:35:04,938 --> 00:35:06,706
+Akhir-akhir ini, aku sangat khawatir karenamu.
+
+479
+00:35:08,541 --> 00:35:09,542
+Camkan ini.
+
+480
+00:35:09,976 --> 00:35:12,312
+Jika kamu terus berulah,
+Yoon Ra Young yang akan celaka.
+
+481
+00:36:22,682 --> 00:36:23,683
+Min Seo.
+
+482
+00:36:46,906 --> 00:36:48,208
+Aku sudah sampai di hotel.
+
+483
+00:36:48,975 --> 00:36:49,976
+Ibu di mana?
+
+484
+00:36:50,643 --> 00:36:54,014
+Di proyek percontohan kota pintar
+yang baru digalakkan pemerintah,
+
+485
+00:36:54,214 --> 00:36:56,883
+The Prime disebut-sebut sebagai kandidat terkuat.
+
+486
+00:36:57,650 --> 00:37:00,320
+- Sistem pertahanan prediktif tadi pada akhirnya akan...
+- Kamu sudah datang.
+
+487
+00:37:00,320 --> 00:37:01,521
+Kita harus bicara.
+
+488
+00:37:01,521 --> 00:37:03,056
+Kita harus bicara soal Pengacara Kwon.
+Kenapa Ibu tidak mengabariku?
+
+489
+00:37:03,123 --> 00:37:06,092
+Itu tidak bisa dihindari.
+
+490
+00:37:06,126 --> 00:37:07,127
+Kamu juga, diam-diam,
+
+491
+00:37:07,193 --> 00:37:08,995
+merencanakan sesuatu yang menarik.
+
+492
+00:37:09,162 --> 00:37:10,830
+Kekhawatiran itu awal teknologi kami.
+
+493
+00:37:10,897 --> 00:37:11,898
+Teknologi harus melindungi manusia,
+bukan mengawasi mereka.
+
+494
+00:37:12,332 --> 00:37:16,102
+Sistem kami tidak melacak siapa yang berbahaya...
+
+495
+00:37:16,336 --> 00:37:19,139
+...melainkan hanya menilai
+situasi apa yang berbahaya.
+
+496
+00:37:19,272 --> 00:37:22,275
+Semua data dari proyek kota pintar
+akan dienkripsi berbasis blockchain.
+
+497
+00:37:22,742 --> 00:37:26,680
+Informasi untuk identifikasi pribadi tidak akan disimpan...
+
+498
+00:37:26,880 --> 00:37:29,749
+...dan dirancang agar tak ada admin
+yang dapat mengakses data aslinya.
+
+499
+00:37:30,216 --> 00:37:34,688
+Kenapa para reporter memotret kita?
+
+500
+00:37:35,522 --> 00:37:36,589
+Kami mendefinisikan ulang konsep keamanan,
+
+501
+00:37:36,656 --> 00:37:38,124
+- dan merancang ulang hubungan teknologi dengan masyarakat.
+- Kamu belum lihat beritanya?
+
+502
+00:37:38,191 --> 00:37:39,826
+Berita apa?
+
+503
+00:37:39,893 --> 00:37:42,729
+Korupsi para penguasa,
+
+504
+00:37:43,396 --> 00:37:44,664
+dan prasangka manusia tidak bisa mengintervensi,
+
+505
+00:37:44,998 --> 00:37:46,433
+- sistem yang transparan.
+- Sepertinya kita kena batunya.
+
+506
+00:37:46,499 --> 00:37:48,001
+"CEO The Prime Baek Tae Joo dan pewaris Haeil
+akan tunangan?"
+
+507
+00:37:48,635 --> 00:37:50,036
+Hingga orang yang paling lemah
+dalam masyarakat sekalipun...
+
+508
+00:37:50,370 --> 00:37:52,072
+Ini ulah Ibu?
+
+509
+00:37:52,138 --> 00:37:53,139
+Aku sudah terlalu lama membiarkanmu bebas.
+
+510
+00:37:53,306 --> 00:37:55,775
+- Aku sudah introspeksi.
+- Teknologi kami akan menjadi alat
+
+511
+00:37:56,142 --> 00:37:58,144
+- Dan orang itu?
+- Itulah satu-satunya tujuan yang ingin The Prime capai.
+
+512
+00:37:58,211 --> 00:37:59,212
+Dia tidak masalah dengan artikel ini?
+
+513
+00:37:59,279 --> 00:38:01,281
+"The Prime: Teknologi, menghadirkan standar baru"
+
+514
+00:38:01,481 --> 00:38:04,918
+Tutup mulutmu. Banyak mata yang melihat.
+
+515
+00:38:13,026 --> 00:38:16,363
+Maaf lancang,
+baru saja ada berita soal rumor tunangan Anda, Presdir.
+
+516
+00:38:16,663 --> 00:38:18,198
+Apakah isi berita itu benar?
+
+517
+00:38:19,532 --> 00:38:20,734
+Rumor pertunangan itu...
+
+518
+00:38:21,868 --> 00:38:22,969
+tidak benar.
+
+519
+00:38:25,372 --> 00:38:28,475
+Hanya saja, memang benar aku menaruh hati padanya.
+
+520
+00:38:29,642 --> 00:38:31,277
+"The Prime: Teknologi, menghadirkan standar baru"
+
+521
+00:38:44,958 --> 00:38:46,226
+Permisi sebentar.
+
+522
+00:38:46,626 --> 00:38:48,661
+Hanya di sini kita bisa bicara
+tanpa menarik perhatian.
+
+523
+00:38:49,662 --> 00:38:50,864
+Apa-apaan ini?
+
+524
+00:38:51,197 --> 00:38:52,265
+Apanya?
+
+525
+00:38:52,866 --> 00:38:57,070
+Kenapa kamu ikut permainan ibuku?
+Sampai mengarang cerita bohong.
+
+526
+00:38:57,137 --> 00:38:58,371
+Aku tidak mengatakan hal yang salah.
+
+527
+00:38:59,773 --> 00:39:02,175
+Aku sudah meluruskan rumor pertunangan itu,
+
+528
+00:39:02,942 --> 00:39:05,412
+dan soal perasaanku padamu, Pengacara Kang,
+
+529
+00:39:06,413 --> 00:39:07,447
+itu nyata.
+
+530
+00:39:09,649 --> 00:39:12,952
+Apa kamu sadar kita baru bertemu beberapa kali?
+
+531
+00:39:13,086 --> 00:39:14,254
+Sejak sebelum kita bertemu?
+
+532
+00:39:14,721 --> 00:39:16,156
+Aku sudah tertarik sejak awal.
+
+533
+00:39:17,590 --> 00:39:19,426
+Kesepakatan apa yang kamu buat dengan ibuku?
+
+534
+00:39:19,726 --> 00:39:21,428
+Atau apa maumu dariku?
+
+535
+00:39:23,263 --> 00:39:25,265
+Begitukah caramu mendekati orang?
+Selalu begitu caramu?
+
+536
+00:39:25,565 --> 00:39:27,400
+Bukan hubungan, melainkan transaksi.
+
+537
+00:39:27,567 --> 00:39:29,135
+Untung dan rugi, bukan kepercayaan.
+
+538
+00:39:29,569 --> 00:39:30,737
+Apa masalahnya?
+
+539
+00:39:31,404 --> 00:39:34,908
+Aku pikir kita bisa menjadi tim yang hebat.
+
+540
+00:39:35,208 --> 00:39:37,410
+- Bukan sebagai rekan transaksi.
+- Apa maksudmu?
+
+541
+00:39:37,477 --> 00:39:38,978
+Coba ubah sudut pandangmu.
+
+542
+00:39:38,978 --> 00:39:40,580
+Aku bukan musuh di pihak ibumu.
+
+543
+00:39:40,914 --> 00:39:44,117
+Aku bisa jadi sekutu kuatmu, Pengacara Kang.
+
+544
+00:39:44,517 --> 00:39:46,586
+Untuk apa? Kenapa memilihku, bukan ibuku?
+
+545
+00:39:48,455 --> 00:39:50,156
+Sebab, orang yang kuanggap hebat
+
+546
+00:39:51,257 --> 00:39:52,459
+adalah kamu, Pengacara Kang.
+
+547
+00:39:53,059 --> 00:39:54,227
+Bukan CEO Seong.
+
+548
+00:39:57,764 --> 00:39:58,765
+Benar juga.
+
+549
+00:39:59,766 --> 00:40:02,402
+Aku tak berniat merilis sanggahan
+untuk artikel pertunangan itu.
+
+550
+00:40:02,969 --> 00:40:04,104
+Siapa tahu bisa menjadi kenyataan, bukan?
+
+551
+00:40:08,908 --> 00:40:09,909
+Sampai jumpa lagi.
+
+552
+00:40:27,660 --> 00:40:28,661
+Minumlah.
+
+553
+00:40:42,308 --> 00:40:45,912
+Karena sangat lapar aku mencuri susu tetangga.
+
+554
+00:40:48,448 --> 00:40:49,449
+Saat aku berumur enam tahun.
+
+555
+00:40:50,483 --> 00:40:51,818
+Aku sudah tidak makan selama tiga hari.
+
+556
+00:40:54,521 --> 00:40:56,823
+Akibatnya, aku dikurung di beranda selama dua hari.
+
+557
+00:40:59,059 --> 00:41:00,126
+Hanya dengan pakaian dalam.
+
+558
+00:41:03,563 --> 00:41:04,764
+Saat itu bulan Januari.
+
+559
+00:41:07,000 --> 00:41:08,268
+Saat aku sekolah dasar,
+
+560
+00:41:09,202 --> 00:41:11,805
+aku salah hitung uang kembalian.
+
+561
+00:41:14,007 --> 00:41:16,943
+Seluruh tubuhku menjadi hitam karena lebam.
+
+562
+00:41:18,144 --> 00:41:19,879
+Orang tuaku selalu begitu.
+
+563
+00:41:20,780 --> 00:41:22,882
+Katanya, jika berbuat jahat, kamu akan dihukum.
+
+564
+00:41:24,651 --> 00:41:26,386
+Apakah karena aku orang jahat,
+
+565
+00:41:28,388 --> 00:41:30,156
+makanya aku mengalami semua ini?
+
+566
+00:41:36,162 --> 00:41:37,163
+Min Seo.
+
+567
+00:41:38,565 --> 00:41:41,968
+Bisakah kamu menusuk orang lain dengan pisau?
+
+568
+00:41:45,005 --> 00:41:46,006
+Tidak akan bisa, bukan?
+
+569
+00:41:46,973 --> 00:41:49,175
+Lalu, kenapa kamu melakukannya pada dirimu sendiri?
+
+570
+00:41:53,279 --> 00:41:54,447
+Aku juga pernah begitu.
+
+571
+00:41:55,348 --> 00:41:59,252
+Kenapa aku ke tempat seperti itu?
+Kenapa aku tak sadar dia begitu?
+
+572
+00:42:00,653 --> 00:42:04,924
+Hal buruk ini menimpaku
+karena aku begitu bodoh dan naif.
+
+573
+00:42:05,425 --> 00:42:08,161
+Aku berkata kejam pada diriku,
+yang takkan kukatakan ke orang lain.
+
+574
+00:42:08,928 --> 00:42:11,498
+Aku justru kulontarkan ratusan,
+bahkan ribuan kali.
+
+575
+00:42:14,668 --> 00:42:15,935
+Menurutmu kenapa begitu?
+
+576
+00:42:18,571 --> 00:42:20,840
+Karena aku adalah sasaran termudah.
+
+577
+00:42:23,009 --> 00:42:25,145
+Harusnya aku marah pada orang jahat
+dan dunia yang salah.
+
+578
+00:42:26,146 --> 00:42:28,515
+Tapi karena tidak punya keberanian untuk melawan,
+
+579
+00:42:29,115 --> 00:42:30,250
+Justru yang kutindas
+
+580
+00:42:31,351 --> 00:42:32,585
+adalah orang yang lemah.
+
+581
+00:42:33,253 --> 00:42:34,821
+Sasaran yang paling mudah bagiku
+
+582
+00:42:36,122 --> 00:42:37,123
+yaitu diriku sendiri.
+
+583
+00:42:39,459 --> 00:42:40,493
+Menyalahkan dirimu sendiri
+
+584
+00:42:41,728 --> 00:42:43,930
+adalah cara termudah
+
+585
+00:42:44,898 --> 00:42:46,666
+untuk menjadi seorang pengecut. Itu yang kusadari.
+
+586
+00:42:51,438 --> 00:42:52,439
+Aku...
+
+587
+00:42:53,640 --> 00:42:57,344
+Aku harap kamu bisa berpisah dengan hari kemarin.
+
+588
+00:42:58,044 --> 00:43:01,114
+Dan aku berharap kamu bisa bersikap baik
+
+589
+00:43:01,681 --> 00:43:02,982
+kepada dirimu sendiri.
+
+590
+00:43:08,188 --> 00:43:09,889
+Orang dari Connect datang menemuiku.
+
+591
+00:43:10,990 --> 00:43:15,095
+Jika aku terus bekerja dengan LnJ,
+mereka akan mencelakaimu.
+
+592
+00:43:15,962 --> 00:43:18,164
+- Mulai sekarang, jangan...
+- Saat mengalami hal seperti ini,
+
+593
+00:43:18,998 --> 00:43:20,333
+rasanya seperti mendapat penegasan
+
+594
+00:43:20,867 --> 00:43:21,868
+tentang siapa diriku.
+
+595
+00:43:23,003 --> 00:43:25,705
+"Kamu tidak akan pernah bisa normal seperti orang lain."
+
+596
+00:43:26,272 --> 00:43:29,275
+"Kamu tidak akan pernah bisa lepas dari ini selamanya."
+
+597
+00:43:32,312 --> 00:43:34,481
+Aku tidak ingin memiliki banyak hal. Aku hanya...
+
+598
+00:43:36,182 --> 00:43:38,151
+ingin menemukan kembali hal-hal
+yang telah hilang dariku.
+
+599
+00:43:40,387 --> 00:43:41,654
+Apa semua itu bisa dipulihkan?
+
+600
+00:43:42,822 --> 00:43:44,391
+Bahkan setelah semuanya menjadi sekacau ini?
+
+601
+00:43:56,436 --> 00:43:57,437
+Sudah bangun?
+
+602
+00:43:58,738 --> 00:44:00,940
+Kupikir sarapan nasi akan lebih baik.
+
+603
+00:44:01,274 --> 00:44:02,609
+Bagaimana? Kamu baik-baik saja?
+
+604
+00:44:03,677 --> 00:44:04,678
+Ya.
+
+605
+00:44:06,079 --> 00:44:07,681
+Kamu menyiapkan ini untukku?
+
+606
+00:44:08,148 --> 00:44:09,549
+Katamu kamu tidak sarapan.
+
+607
+00:44:10,850 --> 00:44:11,851
+Duduklah.
+
+608
+00:44:22,962 --> 00:44:25,198
+Dulu, saat aku mengalami masa sulit,
+
+609
+00:44:26,499 --> 00:44:28,868
+aku tidak bisa makan apa pun untuk sementara waktu.
+
+610
+00:44:29,302 --> 00:44:31,137
+Sebulir nasi pun benar-benar tidak bisa kutelan.
+
+611
+00:44:32,505 --> 00:44:36,443
+Selama aku tidak bisa makan,
+teman-temanku juga tidak mau makan.
+
+612
+00:44:37,177 --> 00:44:39,612
+Aku memaksakan diri satu-dua suap demi mereka.
+
+613
+00:44:40,313 --> 00:44:42,749
+Setelah itu, aku mulai bisa bangkit,
+
+614
+00:44:43,583 --> 00:44:45,518
+berjalan, dan bahkan keluar rumah.
+
+615
+00:44:48,154 --> 00:44:49,356
+Saat itulah aku sadar.
+
+616
+00:44:49,723 --> 00:44:51,157
+Hidup ini ternyata tidak serumit itu.
+
+617
+00:44:51,658 --> 00:44:53,059
+Aku merasa seperti akan mati,
+
+618
+00:44:53,326 --> 00:44:55,161
+tapi setelah makan, ternyata aku bisa hidup lagi.
+
+619
+00:44:55,962 --> 00:44:57,430
+Jika ingin hidup, kita harus makan.
+
+620
+00:44:57,864 --> 00:44:58,865
+Jika ingin menyelamatkan seseorang,
+
+621
+00:44:59,299 --> 00:45:00,433
+kita harus memberinya makan.
+
+622
+00:45:06,039 --> 00:45:07,407
+Aku tidak akan berbohong.
+
+623
+00:45:08,541 --> 00:45:09,542
+Pada akhirnya,
+
+624
+00:45:10,176 --> 00:45:12,278
+aku tidak bisa sepenuhnya pulih.
+
+625
+00:45:13,646 --> 00:45:16,483
+Beberapa luka bisa hilang tanpa bekas,
+
+626
+00:45:16,783 --> 00:45:17,817
+tapi luka yang lain...
+
+627
+00:45:19,119 --> 00:45:20,887
+akan membekas selamanya.
+
+628
+00:45:23,056 --> 00:45:24,958
+Hal yang kualami seperti itu.
+
+629
+00:45:26,760 --> 00:45:28,294
+Tapi mungkin itu
+
+630
+00:45:29,396 --> 00:45:31,965
+karena aku tidak pernah menerima permintaan maaf
+
+631
+00:45:32,198 --> 00:45:33,633
+dari orang yang telah melukaiku.
+
+632
+00:45:36,736 --> 00:45:40,306
+"Aku minta maaf, aku salah."
+Jika aku menerima permintaan maaf
+
+633
+00:45:41,374 --> 00:45:43,743
+apakah saat itu aku juga bisa sedikit membaik?
+
+634
+00:45:46,212 --> 00:45:49,215
+Untuk memastikannya, pertama-tama untuk hari ini
+
+635
+00:45:49,649 --> 00:45:50,850
+kita harus makan sampai kenyang.
+
+636
+00:45:59,426 --> 00:46:00,827
+Ini persediaan makananku.
+
+637
+00:46:01,594 --> 00:46:04,230
+Ini enak, rasanya gurih. Cobalah.
+
+638
+00:46:18,244 --> 00:46:19,379
+Lalu, di kantor,
+
+639
+00:46:19,846 --> 00:46:22,182
+Pengacara Kwon Jung Hyeon akan bergabung.
+
+640
+00:46:23,083 --> 00:46:24,584
+VIP yang itu?
+
+641
+00:46:25,018 --> 00:46:26,019
+Ya.
+
+642
+00:46:26,486 --> 00:46:29,789
+Jadi, untuk sementara waktu,
+sebaiknya kamu tak masuk kerja dulu.
+
+643
+00:46:29,889 --> 00:46:31,124
+Supaya tidak berpapasan dengannya.
+
+644
+00:46:39,132 --> 00:46:40,200
+Akhir-akhir ini sibuk?
+
+645
+00:46:41,234 --> 00:46:42,569
+Wajahmu jarang sekali terlihat.
+
+646
+00:46:45,605 --> 00:46:46,873
+Ada kasus baru yang masuk.
+
+647
+00:46:47,640 --> 00:46:48,641
+Kasus apa?
+
+648
+00:46:48,942 --> 00:46:51,378
+Kasus percobaan pembunuhan
+mahasiswa Hukum Univ. Hanguk, 20 tahun lalu.
+
+649
+00:46:54,581 --> 00:46:55,582
+Apa?
+
+650
+00:46:55,882 --> 00:46:57,017
+Korbannya seorang jaksa.
+
+651
+00:46:57,317 --> 00:46:59,619
+Kamu juga kenal, 'kan? Dia teman seangkatanmu.
+
+652
+00:46:59,853 --> 00:47:02,922
+Park Ju Hwan. Bukan, Jaksa Park Je Yeol.
+
+653
+00:47:05,091 --> 00:47:08,194
+Dia menyuruhmu menyelidiki ulang kasus itu?
+Oleh siapa?
+
+654
+00:47:08,828 --> 00:47:10,530
+Jaksa Park Je Yeol sendiri.
+
+655
+00:47:14,067 --> 00:47:17,837
+Maaf, hari ini aku harus pergi dulu.
+Tolong bereskan sisanya.
+
+656
+00:47:42,629 --> 00:47:45,765
+"Jaksa Park Je Yeol"
+
+657
+00:47:50,070 --> 00:47:51,371
+Ya, dengan Park Je Yeol.
+
+658
+00:47:52,105 --> 00:47:54,240
+Jadi, begini caramu menekan kami?
+
+659
+00:47:54,841 --> 00:47:56,276
+Beraninya kamu mengusik suamiku?
+
+660
+00:47:57,844 --> 00:47:59,346
+Mengusik?
+
+661
+00:47:59,713 --> 00:48:01,681
+Aku justru mau membantunya menaikkan prestasi.
+
+662
+00:48:02,415 --> 00:48:03,850
+Tidak, sepertinya akan seru.
+
+663
+00:48:04,684 --> 00:48:07,053
+Menangkapmu dengan tangan suamimu sendiri.
+
+664
+00:48:07,320 --> 00:48:08,321
+Kamu
+
+665
+00:48:08,722 --> 00:48:10,890
+sedang mengajakku bermain kotor, begitu?
+
+666
+00:48:11,091 --> 00:48:14,828
+Detektif Gu Seon Gyu kelihatannya
+orang yang tulus dan berdedikasi.
+
+667
+00:48:15,628 --> 00:48:18,598
+Jika dia tahu istrinya pelaku percobaan pembunuhan,
+
+668
+00:48:19,199 --> 00:48:22,068
+bagaimana reaksinya nanti?
+Kamu tidak penasaran?
+
+669
+00:48:24,938 --> 00:48:26,306
+Kamu tunggu saja di sana.
+
+670
+00:48:26,639 --> 00:48:27,674
+Ya, silakan masuk.
+
+671
+00:48:29,743 --> 00:48:31,311
+Aku Gu Seon Gyu dari Tim 2 Jatanras Kepolisian Mujin.
+
+672
+00:48:32,746 --> 00:48:35,181
+Bagaimana ini? Aku sudah ada janji.
+
+673
+00:48:36,149 --> 00:48:39,252
+Coba bayangkan baik-baik.
+Percakapan apa yang akan terjadi.
+
+674
+00:48:42,389 --> 00:48:44,924
+Silakan duduk. Aku sudah menunggumu.
+
+675
+00:49:00,907 --> 00:49:02,409
+Sudah kamu pelajari kasusnya?
+
+676
+00:49:03,476 --> 00:49:04,477
+Ya, tapi
+
+677
+00:49:04,744 --> 00:49:08,214
+penyelidikan awal gagal,
+jadi, hampir tak ada lagi petunjuk.
+
+678
+00:49:09,182 --> 00:49:10,517
+Alasanmu membuka kembali penyelidikan ini,
+
+679
+00:49:11,117 --> 00:49:12,886
+apakah karena ingatanmu sudah kembali?
+
+680
+00:49:13,286 --> 00:49:15,588
+Atau mungkin kamu mengingat petunjuk tentang pelakunya.
+
+681
+00:49:16,890 --> 00:49:20,393
+Sejujurnya, aku gagal memulihkan
+ingatanku sepenuhnya.
+
+682
+00:49:21,094 --> 00:49:22,429
+Kepingan-kepingan ingatanku pun
+
+683
+00:49:22,829 --> 00:49:25,331
+belum tentu bisa dianggap valid di pengadilan.
+
+684
+00:49:27,634 --> 00:49:28,635
+Lalu?
+
+685
+00:49:29,102 --> 00:49:30,136
+Entah kenapa,
+
+686
+00:49:30,637 --> 00:49:32,172
+bisa dibilang aku merasa percaya?
+
+687
+00:49:32,772 --> 00:49:34,007
+Kalau kamu, Detektif Gu,
+
+688
+00:49:34,307 --> 00:49:36,276
+bisa menemukan pelakunya,
+
+689
+00:49:40,380 --> 00:49:42,215
+Apa karena aku suami Hyeon Jin?
+
+690
+00:49:46,286 --> 00:49:49,689
+Ternyata kamu sudah tahu.
+Hubunganku dengan Hyeon Jin.
+
+691
+00:49:50,724 --> 00:49:52,425
+Begitulah.
+
+692
+00:49:53,493 --> 00:49:57,263
+Karena kamu, Detektif Gu,
+
+693
+00:49:57,564 --> 00:49:59,933
+pasti bisa mendapatkan pernyataan dengan mudah
+
+694
+00:50:00,300 --> 00:50:01,835
+dari Yoon Ra Young, Hwang Hyeon Jin, dan Kang Shin Jae.
+
+695
+00:50:02,369 --> 00:50:04,270
+Ingatan mereka juga pasti masih utuh.
+
+696
+00:50:05,105 --> 00:50:06,106
+Benarkah
+
+697
+00:50:06,973 --> 00:50:07,974
+hanya itu alasannya?
+
+698
+00:50:09,876 --> 00:50:10,877
+Kenapa?
+
+699
+00:50:11,444 --> 00:50:14,214
+Apa ada alasan untuk curiga
+kalau bukan hanya itu?
+
+700
+00:50:16,316 --> 00:50:18,785
+Aku tak tahu apa ini akan membantu,
+
+701
+00:50:19,352 --> 00:50:21,621
+tapi aku dan Yoon Ra Young pernah berpacaran.
+
+702
+00:50:22,288 --> 00:50:26,526
+Dan saat itu, mereka bertiga
+ada di tempat yang sama denganku.
+
+703
+00:50:27,260 --> 00:50:29,729
+Tapi, alasan ketiganya tak masuk
+dalam daftar tersangka
+
+704
+00:50:30,096 --> 00:50:32,866
+karena mereka saling memberikan alibi.
+
+705
+00:50:34,701 --> 00:50:36,636
+Aku kadang berandai-andai sendiri.
+
+706
+00:50:38,972 --> 00:50:41,675
+Apa kesaksian itu benar?
+
+707
+00:50:43,877 --> 00:50:46,079
+- Apa yang terjadi pada Ra Young setelah itu?
+- Kami putus.
+
+708
+00:50:46,079 --> 00:50:47,380
+Tepatnya, dia yang memutuskan hubungan kami.
+
+709
+00:50:48,114 --> 00:50:50,583
+Kamu tidak penasaran dengan alasannya?
+
+710
+00:50:52,252 --> 00:50:53,553
+Aku sesekali merasa penasaran.
+
+711
+00:50:55,255 --> 00:50:57,891
+Jadi, kamu akan mengulanginya?
+Sesuai perintah ibumu?
+
+712
+00:51:57,550 --> 00:52:00,487
+Aku masih pertimbangkan mana yang terbaik.
+
+713
+00:52:01,054 --> 00:52:03,256
+Aku...
+
+714
+00:52:07,427 --> 00:52:08,428
+akan berhenti melarikan diri.
+
+715
+00:52:08,995 --> 00:52:10,230
+Karena terus kusembunyikan, lukanya jadi membusuk.
+
+716
+00:52:12,465 --> 00:52:14,300
+Saat kupikir sudah sembuh,
+lukanya kambuh di tempat yang sama.
+
+717
+00:52:15,035 --> 00:52:18,204
+Jika mengungkapnya adalah harga
+demi melanjutkan pertarungan ini,
+
+718
+00:52:19,439 --> 00:52:22,909
+aku akan menanggungnya, Shin Jae.
+
+719
+00:52:24,044 --> 00:52:25,612
+Kamu yakin akan baik-baik saja?
+
+720
+00:52:28,314 --> 00:52:29,549
+Untuk sekali ini,
+
+721
+00:52:33,086 --> 00:52:34,287
+kita seharusnya berjuang untuk diri kita sendiri.
+
+722
+00:52:35,121 --> 00:52:36,790
+Connect...
+
+723
+00:52:37,957 --> 00:52:38,958
+Aku akan jalani sampai akhir.
+
+724
+00:52:39,993 --> 00:52:41,227
+Aku tidak bisa berhenti.
+
+725
+00:52:56,276 --> 00:52:57,277
+Ada apa?
+
+726
+00:53:21,634 --> 00:53:24,070
+Tapi, alasan ketiganya tak masuk
+dalam daftar tersangka
+
+727
+00:53:24,371 --> 00:53:27,340
+karena mereka saling memberikan alibi.
+
+728
+00:53:29,075 --> 00:53:31,111
+Aku kadang berandai-andai sendiri.
+
+729
+00:53:31,745 --> 00:53:34,147
+Apa kesaksian itu benar?
+
+730
+00:53:36,316 --> 00:53:38,718
+Kamu tahu kapan aku merasakan hal seperti ini?
+
+731
+00:53:39,419 --> 00:53:40,420
+Komplotan.
+
+732
+00:53:41,221 --> 00:53:43,189
+Takdir mereka terikat menjadi satu.
+
+733
+00:53:44,391 --> 00:53:45,592
+Jika salah satunya hancur,
+
+734
+00:53:46,159 --> 00:53:48,561
+yang lain pun pasti ikut hancur.
+
+735
+00:54:02,142 --> 00:54:04,210
+Sudah kucoba lagi, hasilnya sama.
+
+736
+00:54:05,045 --> 00:54:07,947
+Kakak belum tahu. Aku belum memberitahunya.
+
+737
+00:54:09,049 --> 00:54:10,483
+Saat ini hanya kalian yang tahu.
+
+738
+00:54:11,518 --> 00:54:12,519
+Untuk Kakak...
+
+739
+00:54:12,886 --> 00:54:15,922
+lebih baik kuberitahu nanti, ya?
+Kalau sudah lebih pasti.
+
+740
+00:54:18,825 --> 00:54:20,894
+- Aku pulang.
+- Hei.
+
+741
+00:54:25,398 --> 00:54:26,399
+Sudah pulang?
+
+742
+00:54:28,935 --> 00:54:29,936
+Ada apa lagi?
+
+743
+00:54:31,705 --> 00:54:32,706
+Apa?
+
+744
+00:54:33,373 --> 00:54:34,941
+Kamu menyembunyikan sesuatu dariku.
+
+745
+00:54:35,442 --> 00:54:36,543
+Sebenarnya apa lagi?
+
+746
+00:54:38,345 --> 00:54:40,313
+Kamu bicara apa?
+
+747
+00:54:41,414 --> 00:54:42,582
+- Apa yang kamu sembunyikan di belakangmu?
+- Apa yang kusembunyikan?
+
+748
+00:54:55,495 --> 00:54:57,897
+Jangan. Situasinya sudah berubah.
+
+749
+00:54:58,431 --> 00:55:00,300
+Hyeon Jin sudah sangat lama menantikan seorang anak.
+
+750
+00:55:00,800 --> 00:55:02,302
+Jika masalah kita sampai terungkap,
+
+751
+00:55:02,669 --> 00:55:04,204
+yang paling terancam adalah Hyeon Jin.
+
+752
+00:55:04,471 --> 00:55:06,506
+Melindungi Hyeon Jin harus menjadi yang utama.
+
+753
+00:55:08,074 --> 00:55:11,311
+Ini jelas berlebihan.
+Terus maju membabi buta seperti ini.
+
+754
+00:55:19,886 --> 00:55:21,221
+- Ini dokumen yang kamu minta.
+- Terima kasih.
+
+755
+00:55:24,991 --> 00:55:26,926
+Ini sungguhan?
+
+756
+00:55:31,297 --> 00:55:34,334
+Aku berniat memberitahumu saat sudah lebih pasti.
+
+757
+00:55:35,735 --> 00:55:38,071
+Aku takut kamu akan kecewa jika terjadi sesuatu...
+
+758
+00:55:39,272 --> 00:55:41,741
+Bagaimana kamu bisa berkata begitu?
+
+759
+00:55:45,111 --> 00:55:46,780
+Kita akan menjadi orang tua?
+
+760
+00:55:48,481 --> 00:55:49,482
+Benarkah?
+
+761
+00:55:50,216 --> 00:55:53,486
+- Kenapa menangis? Dasar kamu ini.
+- Aku tidak menangis.
+
+762
+00:55:54,054 --> 00:55:55,055
+Karena bahagia.
+
+763
+00:56:00,493 --> 00:56:01,995
+Mungkin ada caranya.
+
+764
+00:56:04,497 --> 00:56:07,233
+Park Je Yeol. Kita serang dia lebih dulu.
+
+765
+00:56:08,068 --> 00:56:09,736
+Agar dia tidak bisa buka mulut soal kita.
+
+766
+00:56:29,189 --> 00:56:30,657
+Hong Yeon Hee, 42 tahun.
+
+767
+00:56:31,057 --> 00:56:33,893
+Pasangan, jaksa Divisi Kriminal 3
+Kejaksaan Distrik Mujin,
+
+768
+00:56:34,160 --> 00:56:35,161
+Park Je Yeol.
+
+769
+00:56:39,499 --> 00:56:40,500
+Kamu.
+
+770
+00:56:41,634 --> 00:56:43,503
+Apa tujuanmu mendekatiku?
+
+771
+00:56:53,847 --> 00:56:54,848
+Kamu orangnya, bukan?
+
+772
+00:56:55,215 --> 00:56:57,751
+Yang mencoba membunuh suamiku 20 tahun lalu.
+
+773
+00:57:01,488 --> 00:57:02,555
+Itu sebuah kesalahan.
+
+774
+00:57:07,660 --> 00:57:09,529
+Seharusnya saat itu kubunuh saja dia.
+
+775
+00:57:28,448 --> 00:57:32,352
+"Honour"
+
+776
+00:58:23,770 --> 00:58:26,439
+Kasus percobaan pembunuhan
+mahasiswa Fakultas Hukum Universitas Hanguk.
+
+777
+00:58:26,706 --> 00:58:29,743
+Jika terjadi lagi pada Hyeon Jin,
+aku tidak akan tinggal diam.
+
+778
+00:58:30,610 --> 00:58:32,479
+Kamu bilang ini laptopnya Jun Hyeok?
+
+779
+00:58:32,746 --> 00:58:34,381
+Akan kuberikan secara eksklusif, termasuk wawancara.
+
+780
+00:58:34,781 --> 00:58:37,717
+Pengacara Kwon terlibat. Sebagai pengguna.
+
+781
+00:58:38,118 --> 00:58:40,553
+Aku bilang akan membantumu.
+Bukankah itu kesepakatan kita?
+
+782
+00:58:40,720 --> 00:58:43,456
+Aku sudah membuka semua kartuku.
+Apa yang kamu inginkan?
+
+783
+00:58:44,391 --> 00:58:47,227
+- Misi selesai.
+- Laptop Jun Hyeok hilang.
+
+784
+00:58:47,660 --> 00:58:49,195
+Yang belum tuntas menebus dosanya,
+
+785
+00:58:49,696 --> 00:58:50,697
+itu kamu.
