@@ -1,0 +1,2784 @@
+1
+00:01:42,660 --> 00:01:44,960
+<i>Bekerja keras dan cepat selama 100 hari,</i>
+
+2
+00:01:45,460 --> 00:01:47,620
+<i>nilai tinggi di papan prestasi</i>
+<i>sebagai balasan masa muda.</i>
+
+3
+00:01:48,460 --> 00:01:51,780
+<i>Rasanya, baru kemarin</i>
+<i>aku masuk SMA Eksperimen.</i>
+
+4
+00:01:51,820 --> 00:01:52,820
+MENIMBA ILMU UNTUK BEKAL DIRI,
+TIDAK BELAJAR, PIKIRAN AKAN BERHENTI
+
+5
+00:01:52,860 --> 00:01:53,860
+<i>Namun sekarang,</i>
+
+6
+00:01:54,360 --> 00:01:56,480
+<i>ujian masuk universitas</i>
+<i>sudah memaksa kami lulus.</i>
+
+7
+00:02:01,760 --> 00:02:04,200
+<i>Jiang Qiaoxi bukan baru</i>
+<i>mulai mempersiapkan</i>
+
+8
+00:02:04,240 --> 00:02:06,240
+<i>ujian studi ke luar negeri</i>
+<i>setelah kembali ke sekolah.</i>
+
+9
+00:02:07,160 --> 00:02:09,080
+<i>Hingga kemudian, aku bahkan curiga</i>
+
+10
+00:02:09,580 --> 00:02:12,020
+<i>materi yang dikirim kakak sepupunya</i>
+
+11
+00:02:12,060 --> 00:02:14,000
+<i>dengan alasan</i>
+<i>materi Olimpiade Matematika itu,</i>
+
+12
+00:02:14,040 --> 00:02:16,600
+<i>kemungkinan besar sebenarnya adalah</i>
+<i>materi ujian studi ke luar negeri.</i>
+
+13
+00:02:17,100 --> 00:02:19,360
+<i>Itu karena waktu kursus Jiang Qiaoxi</i>
+<i>terlalu singkat,</i>
+
+14
+00:02:19,860 --> 00:02:22,840
+<i>tapi dia sangat cepat ikut ujian.</i>
+
+15
+00:02:26,000 --> 00:02:27,980
+<i>Tidak peduli apa pun pertanyaanku,</i>
+
+16
+00:02:28,480 --> 00:02:30,760
+baik yang normal atau aneh,
+
+17
+00:02:30,800 --> 00:02:31,760
+<i>tentang pelajaran</i>
+
+18
+00:02:31,800 --> 00:02:33,320
+<i>atau komik,</i>
+
+19
+00:02:33,360 --> 00:02:35,000
+<i>dia selalu menjawabku dengan cepat.</i>
+
+20
+00:02:37,780 --> 00:02:39,080
+Aku mengerti!
+
+21
+00:02:44,700 --> 00:02:48,280
+{\an8}<i>Bahkan saat Qin Yeyun bertanya</i>
+<i>tentang kabar terbaru film Chen Jinhong,</i>
+
+22
+00:02:48,320 --> 00:02:49,640
+{\an8}<i>dia juga akan mencari tahu.</i>
+
+23
+00:02:50,140 --> 00:02:51,600
+{\an8}<i>Padahal cukup foto</i>
+
+24
+00:02:51,640 --> 00:02:52,800
+<i>dan kirim lewat surel saja.</i>
+
+25
+00:02:53,300 --> 00:02:56,140
+<i>tapi dia masih sempat-sempatnya</i>
+<i>pergi membeli majalah.</i>
+
+26
+00:02:56,840 --> 00:02:59,900
+<i>Waktu itu, semua urusannya</i>
+<i>berjalan lancar.</i>
+
+27
+00:03:11,760 --> 00:03:14,960
+Aku tidak akan merasa heran
+dengan apa pun yang Jiang Qiaoxi lakukan.
+
+28
+00:03:15,880 --> 00:03:18,700
+Saat di Qunshan, dia dekat dengan kita,
+
+29
+00:03:19,200 --> 00:03:21,660
+tapi saat di SMA Eksperimen
+malah pura-pura tidak kenal,
+
+30
+00:03:22,180 --> 00:03:24,160
+kemudian dia dekat lagi dengan kita.
+
+31
+00:03:26,320 --> 00:03:28,280
+Sekarang, dia tidak lagi
+membalas pesan dari Du Shang.
+
+32
+00:03:29,860 --> 00:03:31,000
+Dengar, Lin Qile.
+
+33
+00:03:31,600 --> 00:03:33,660
+Jiang Qiaoxi itu sangat punya pendirian.
+
+34
+00:03:34,160 --> 00:03:35,840
+Dia akan melakukan apa yang dia mau,
+
+35
+00:03:37,020 --> 00:03:39,140
+tapi kau tidak bisa
+berbuat apa-apa terhadapnya.
+
+36
+00:03:39,680 --> 00:03:40,820
+<i>Jadi, hingga akhirnya,</i>
+
+37
+00:03:41,320 --> 00:03:44,080
+<i>Jiang Qiaoxi hampir tidak pernah</i>
+<i>membalas pesan orang lain lagi.</i>
+
+38
+00:03:44,700 --> 00:03:45,900
+<i>Sejujurnya,</i>
+
+39
+00:03:46,440 --> 00:03:48,140
+<i>aku tidak terlalu memikirkannya.</i>
+
+40
+00:03:51,420 --> 00:03:53,180
+<i>Ucapan Ibu lebih enak didengar.</i>
+
+41
+00:03:53,680 --> 00:03:55,460
+Paman Cai memberi tahu kami
+
+42
+00:03:55,500 --> 00:03:57,980
+bahwa ujian studi ke luar negeri Qiaoxi
+sangat rumit.
+
+43
+00:03:58,020 --> 00:03:59,940
+Ada banyak yang merupakan
+materi di perkuliahan.
+
+44
+00:04:00,440 --> 00:04:01,860
+Seperti arsitektur,
+
+45
+00:04:01,900 --> 00:04:05,260
+psikologi, dan pelajaran lain
+yang aneh-aneh.
+
+46
+00:04:05,760 --> 00:04:08,380
+Mungkin dia sendiri saja
+sibuk sampai kewalahan,
+
+47
+00:04:08,420 --> 00:04:10,080
+jadi tidak sempat menemani mengobrol lagi.
+
+48
+00:04:12,560 --> 00:04:13,400
+Benar juga.
+
+49
+00:04:16,100 --> 00:04:17,800
+- Yingtao.
+- <i>Kemudian aku baru tahu</i>
+
+50
+00:04:17,839 --> 00:04:20,180
+- <i>bahwa saat itu Jiang Qiaoxi</i>
+- Nilai ujian matematika dan fisikamu
+
+51
+00:04:20,220 --> 00:04:21,779
+- <i>memang sedang kewalahan.</i>
+- kali ini menurun, ya?
+
+52
+00:04:22,340 --> 00:04:23,880
+<i>Namun, bukan kewalahan</i>
+<i>karena ujian yang sulit</i>
+
+53
+00:04:23,920 --> 00:04:26,220
+<i>seperti yang kami pikirkan,</i>
+
+54
+00:04:27,360 --> 00:04:28,520
+<i>melainkan karena hal lain.</i>
+
+55
+00:04:28,560 --> 00:04:29,600
+Aku sudah selesai makan.
+
+56
+00:04:29,640 --> 00:04:31,880
+<i>Kewalahan karena masalah orang dewasa.</i>
+
+57
+00:04:32,380 --> 00:04:33,360
+Kau lihat ini?
+
+58
+00:04:33,400 --> 00:04:34,700
+Sudah turun beberapa hari berturut-turut
+
+59
+00:04:34,740 --> 00:04:36,040
+sampai separah itu.
+
+60
+00:04:36,080 --> 00:04:37,200
+Bu Liang menyuruhku jual saham.
+
+61
+00:04:37,240 --> 00:04:38,420
+Pasti terjadi suatu masalah.
+
+62
+00:04:40,500 --> 00:04:41,420
+Aku tidak paham.
+
+63
+00:04:42,120 --> 00:04:43,080
+Berapa kerugiannya ini?
+
+64
+00:04:44,680 --> 00:04:45,540
+Bagaimana kujelaskan, ya?
+
+65
+00:04:46,040 --> 00:04:47,000
+Kira-kira
+
+66
+00:04:47,580 --> 00:04:48,920
+sehari satu mobil Audi.
+
+67
+00:04:49,860 --> 00:04:50,920
+Sebanyak itu?
+
+68
+00:04:52,760 --> 00:04:55,520
+Lalu, dia ada keperluan apa
+
+69
+00:04:55,560 --> 00:04:56,420
+sampai buru-buru begitu?
+
+70
+00:04:56,460 --> 00:04:57,780
+Entahlah, dia hanya bilang
+butuh uang cepat.
+
+71
+00:04:57,820 --> 00:04:59,880
+Mau turun seberapa pun, tetap dijual.
+Dia butuh uang tunai.
+
+72
+00:05:00,640 --> 00:05:02,400
+Apa terjadi sesuatu pada Jiang Qiaoxi?
+
+73
+00:05:02,440 --> 00:05:03,740
+Aku pulang.
+
+74
+00:05:04,820 --> 00:05:06,400
+- Sudah pulang?
+- Ada apa?
+
+75
+00:05:07,800 --> 00:05:08,720
+Kau sudah pulang.
+
+76
+00:05:08,760 --> 00:05:09,660
+Paman Cai.
+
+77
+00:05:10,680 --> 00:05:13,080
+Kamarku kemasukan ngengat lagi?
+
+78
+00:05:13,120 --> 00:05:14,260
+Mana mungkin?
+
+79
+00:05:14,300 --> 00:05:16,600
+Kami sedang mengobrol santai,
+lalu sedikit bernostalgia.
+
+80
+00:05:16,640 --> 00:05:19,800
+Katanya, mau mencari fotomu
+dengan Cai Fangyuan saat kecil.
+
+81
+00:05:19,840 --> 00:05:21,380
+- Benar.
+- Foto apa?
+
+82
+00:05:21,420 --> 00:05:22,520
+Benar, yang ini!
+
+83
+00:05:22,560 --> 00:05:23,720
+- Yang ini?
+- Aku pula yang menemukannya.
+
+84
+00:05:24,220 --> 00:05:25,560
+Waktu kecil, aku hitam sekali.
+
+85
+00:05:25,600 --> 00:05:26,440
+Apa yang hitam? Putih sekali.
+
+86
+00:05:26,480 --> 00:05:28,160
+Waktu itu, tinggimu hanya segini.
+Aku bisa menggendongmu dengan mudah.
+
+87
+00:05:28,200 --> 00:05:29,860
+Aku kirim ke kalian, ya?
+
+88
+00:05:29,900 --> 00:05:31,440
+- Tidak perlu.
+- Cuma mau lihat.
+
+89
+00:05:31,480 --> 00:05:33,460
+Kau seduhkan teh untuk Paman.
+
+90
+00:05:34,400 --> 00:05:35,260
+Aku lupa tadi.
+
+91
+00:05:35,760 --> 00:05:36,600
+Baik.
+
+92
+00:05:37,680 --> 00:05:41,380
+Oh, iya! Ada teh mawar, teh krisan,
+dan anggur prem.
+
+93
+00:05:41,420 --> 00:05:43,140
+Teh krisan saja.
+Minum anggur apa di siang bolong?
+
+94
+00:05:43,180 --> 00:05:44,200
+Teh krisan.
+
+95
+00:05:46,120 --> 00:05:47,000
+Duduk dulu.
+
+96
+00:05:47,040 --> 00:05:47,880
+Baik.
+
+97
+00:05:55,320 --> 00:05:56,400
+Apa
+
+98
+00:05:57,240 --> 00:05:58,120
+terjadi sesuatu kepada Jiang Qiaoxi?
+
+99
+00:05:58,160 --> 00:06:00,120
+Biar kuberi tahu,
+menurutku bukan Jiang Qiaoxi.
+
+100
+00:06:00,620 --> 00:06:02,000
+Kalau itu Qiaoxi,
+
+101
+00:06:02,040 --> 00:06:03,540
+Bu Liang tidak mungkin setenang itu.
+
+102
+00:06:03,580 --> 00:06:04,460
+Menurutmu,
+
+103
+00:06:04,500 --> 00:06:05,340
+benar, 'kan?
+
+104
+00:06:06,140 --> 00:06:06,980
+Paman Cai.
+
+105
+00:06:07,480 --> 00:06:10,200
+Belakangan ini,
+Cai Fangyuan sangat rajin belajar.
+
+106
+00:06:10,240 --> 00:06:12,180
+Dia juga sangat giat di sekolah.
+
+107
+00:06:12,680 --> 00:06:16,040
+Jadi, kalau dia malas sedikit di rumah,
+Paman jangan marahi dia.
+
+108
+00:06:16,080 --> 00:06:17,620
+Kalau ada soal yang tidak bisa,
+
+109
+00:06:17,660 --> 00:06:18,840
+Jiang Qiaoxi akan mengajarinya.
+
+110
+00:06:18,880 --> 00:06:20,400
+Jadi, Paman tenang saja.
+
+111
+00:06:21,400 --> 00:06:22,420
+Baik.
+
+112
+00:06:24,420 --> 00:06:25,520
+<i>Karena menurutku</i>
+
+113
+00:06:25,560 --> 00:06:27,320
+<i>sejak Jiang Qiaoxi ke Hong Kong,</i>
+
+114
+00:06:27,360 --> 00:06:28,720
+- <i>dia hampir jadi cerewet.</i>
+- Lihat yang berikutnya.
+
+115
+00:06:28,760 --> 00:06:29,600
+Cita-citaku adalah
+
+116
+00:06:29,640 --> 00:06:31,680
+- <i>Sering kali saat pilek atau pusing,</i>
+- jadi pemadam kebakaran.
+
+117
+00:06:31,720 --> 00:06:33,540
+- <i>dia masih terus mengobrol denganku.</i>
+- Wah!
+
+118
+00:06:33,580 --> 00:06:36,020
+<i>Aku selalu berpikir</i>
+<i>kalau dia bisa kurangi bicara</i>
+
+119
+00:06:36,060 --> 00:06:37,340
+<i>dan banyak istirahat,</i>
+
+120
+00:06:37,380 --> 00:06:38,760
+<i>itu justru lebih baik.</i>
+
+121
+00:06:39,940 --> 00:06:41,340
+Aku ingin menjadi…
+
+122
+00:06:41,380 --> 00:06:44,220
+<i>Jiang Qiaoxi memang malas</i>
+<i>menggubris orang,</i>
+
+123
+00:06:44,840 --> 00:06:45,740
+<i>tapi aku</i>
+
+124
+00:06:45,780 --> 00:06:48,500
+- <i>selalu dapat respons terbanyak darinya.</i>
+- Aku ingin menjadi
+
+125
+00:06:48,540 --> 00:06:50,640
+- <i>Jadi, aku tidak bisa membayangkan</i>
+- orang terkaya
+
+126
+00:06:50,680 --> 00:06:52,740
+- <i>seperti apa kalau dia tidak mau</i>
+- di provinsi.
+
+127
+00:06:52,780 --> 00:06:54,160
+<i>bicara denganku lagi?</i>
+
+128
+00:06:55,220 --> 00:06:57,040
+- Hahaha.
+- Siapa yang tulis?
+
+129
+00:06:57,080 --> 00:07:01,560
+<i>Entah siapa yang tulis bahwa cita-citanya</i>
+<i>ingin menjadi orang terkaya seprovinsi.</i>
+
+130
+00:07:01,600 --> 00:07:02,960
+<i>Astaga!</i>
+
+131
+00:07:13,060 --> 00:07:15,040
+<i>Kau juga pasti bisa</i>
+<i>mewujudkan cita-citamu.</i>
+
+132
+00:07:32,240 --> 00:07:34,360
+{\an8}DI MEDAN ILMU DAN SEMANGAT,
+SISWA JIALIN BERDIRI DI PUNCAK KEJAYAAN
+
+133
+00:07:39,880 --> 00:07:41,560
+Ayo, cepat turun!
+
+134
+00:07:42,240 --> 00:07:44,220
+Bawa KTP dan kartu ujian kalian.
+
+135
+00:08:03,340 --> 00:08:04,520
+{\an8}<i>Jiang Qiaoxi,</i>
+
+136
+00:08:04,560 --> 00:08:07,380
+{\an8}<i>kemarin kau bilang akan memberitahuku</i>
+<i>nilai ujianmu setelah aku selesai ujian.</i>
+
+137
+00:08:07,880 --> 00:08:09,540
+{\an8}<i>Kenapa kau belum memberitahuku?</i>
+
+138
+00:08:10,280 --> 00:08:11,360
+{\an8}<i>Jiang Qiaoxi,</i>
+
+139
+00:08:12,120 --> 00:08:13,720
+<i>kenapa kau belum membalasku?</i>
+
+140
+00:08:14,560 --> 00:08:16,680
+<i>Apa kau pergi berbelanja?</i>
+
+141
+00:08:17,580 --> 00:08:20,240
+<i>Sayang sekali kau tidak di bus ini.</i>
+
+142
+00:08:20,280 --> 00:08:22,640
+<i>Kami berencana naik bus</i>
+<i>ke Rumah Makan Zhouzhou.</i>
+
+143
+00:08:23,140 --> 00:08:24,520
+<i>Kali ini terlalu banyak orang,</i>
+
+144
+00:08:24,560 --> 00:08:26,360
+<i>mobil Paman Cai pun tidak muat.</i>
+
+145
+00:08:26,860 --> 00:08:30,080
+<i>Aku pasti akan memesan</i>
+<i>iga bawang putih kesukaanmu.</i>
+
+146
+00:08:30,580 --> 00:08:31,420
+<i>Ujianku selesai!</i>
+
+147
+00:08:31,460 --> 00:08:32,820
+<i>Akhirnya selesai, Jiang Qiaoxi!</i>
+
+148
+00:08:32,860 --> 00:08:34,260
+<i>Coba kau tebak, hasilku bagus tidak?</i>
+
+149
+00:08:34,299 --> 00:08:35,620
+<i>Jiang Qiaoxi, bagaimana denganmu?</i>
+
+150
+00:08:35,659 --> 00:08:37,059
+<i>Apa masa SMA-mu</i>
+
+151
+00:08:37,100 --> 00:08:40,940
+<i>sudah berakhir saat kau pindah</i>
+<i>dari Hongyang</i>
+
+152
+00:08:40,980 --> 00:08:42,220
+<i>ke Hong Kong?</i>
+
+153
+00:08:42,260 --> 00:08:43,520
+<i>Tinggal satu ujian lagi sore ini,</i>
+
+154
+00:08:43,559 --> 00:08:45,880
+{\an8}<i>maka masa SMA-ku akan berakhir.</i>
+
+155
+00:08:46,400 --> 00:08:49,040
+Ibuku memaksaku makan bubur ikan lagi.
+
+156
+00:08:49,080 --> 00:08:50,320
+<i>Aku tidak bisa habiskan.</i>
+
+157
+00:08:50,360 --> 00:08:51,380
+<i>Namun, kata ibuku,</i>
+
+158
+00:08:51,420 --> 00:08:53,100
+<i>ikan bisa meningkatkan stamina</i>
+<i>dan sangat bergizi.</i>
+
+159
+00:08:53,140 --> 00:08:54,360
+<i>Harus dimakan sebelum ujian.</i>
+
+160
+00:08:54,400 --> 00:08:55,540
+<i>Jiang Qiaoxi,</i>
+
+161
+00:08:55,580 --> 00:08:57,300
+<i>besok kami akan selesai ujian.</i>
+
+162
+00:08:57,340 --> 00:08:58,460
+<i>Kapan kau pulang?</i>
+
+163
+00:08:58,960 --> 00:09:00,540
+<i>Yu Qiao dan Cai Fangyuan bilang,</i>
+
+164
+00:09:00,580 --> 00:09:02,160
+<i>mau bersenang-senang</i>
+<i>saat liburan musim panas.</i>
+
+165
+00:09:02,660 --> 00:09:04,640
+<i>Apa kau akan pulang</i>
+<i>untuk bersenang-senang bersama kami?</i>
+
+166
+00:09:08,440 --> 00:09:10,200
+<i>Apa yang aku nyanyikan?</i>
+
+167
+00:09:10,240 --> 00:09:12,180
+<i>Segalanya terasa</i>
+
+168
+00:09:12,220 --> 00:09:13,820
+<i>Ternyata kau adalah</i>
+
+169
+00:09:13,860 --> 00:09:15,720
+<i>Lagu utamaku</i>
+
+170
+00:09:15,760 --> 00:09:17,380
+<i>Apa yang kau katakan?</i>
+
+171
+00:09:17,420 --> 00:09:18,540
+<i>Hanya dengar sekali</i>
+
+172
+00:09:18,580 --> 00:09:21,060
+<i>Pun akan ingat</i>
+
+173
+00:09:21,100 --> 00:09:22,960
+<i>Dengar dua kali</i>
+<i>akan membuat semangat</i>
+
+174
+00:09:23,000 --> 00:09:24,400
+<i>Apa yang aku lakukan?</i>
+
+175
+00:09:24,440 --> 00:09:26,480
+<i>Segalanya terasa</i>
+
+176
+00:09:26,520 --> 00:09:28,960
+<i>Ketika melihatmu</i>
+
+177
+00:09:30,700 --> 00:09:32,320
+<i>Apakah aku seekor ikan?</i>
+
+178
+00:09:50,000 --> 00:09:51,440
+<i>Selamat, ujianmu sudah selesai.</i>
+
+179
+00:09:51,480 --> 00:09:53,680
+<i>Mulailah kehidupan</i>
+<i>perkuliahanmu dengan baik.</i>
+
+180
+00:09:53,720 --> 00:09:55,460
+<i>Kehidupanmu luas dan tiada batas.</i>
+
+181
+00:09:55,960 --> 00:09:57,280
+Jiang Qiaoxi membalas pesanku!
+
+182
+00:09:57,320 --> 00:09:58,200
+Jiang Qiaoxi membalas pesanku!
+
+183
+00:09:58,240 --> 00:09:59,900
+Lihatlah, Jiang Qiaoxi membalas pesanku!
+
+184
+00:09:59,940 --> 00:10:01,240
+- Tanya dia mau pergi main atau tidak.
+- Iya!
+
+185
+00:10:02,160 --> 00:10:03,000
+Baik.
+
+186
+00:10:03,040 --> 00:10:03,900
+Aku akan meneleponnya.
+
+187
+00:10:04,440 --> 00:10:05,500
+Aku mau memberi tahu dia
+
+188
+00:10:05,540 --> 00:10:07,360
+bahwa kita sedang makan enak di sini,
+
+189
+00:10:07,400 --> 00:10:08,820
+sedangkan dia tidak mendapat
+apa-apa di Hong Kong.
+
+190
+00:10:08,860 --> 00:10:09,720
+Tidak buru-buru.
+
+191
+00:10:09,760 --> 00:10:11,760
+Ka… kalian duduklah, makan dulu.
+
+192
+00:10:11,800 --> 00:10:13,260
+Makan dulu, ya.
+
+193
+00:10:13,300 --> 00:10:14,660
+Lauknya sudah dingin. Yingtao,
+
+194
+00:10:14,700 --> 00:10:15,760
+lauknya sudah dingin.
+
+195
+00:10:23,340 --> 00:10:24,260
+<i>Maaf.</i>
+
+196
+00:10:24,300 --> 00:10:27,400
+<i>Nomor yang Anda tuju</i>
+<i>sedang tidak bisa menjawab</i>
+
+197
+00:10:27,440 --> 00:10:28,660
+<i>Silakan coba beberapa saat lagi.</i>
+
+198
+00:10:28,700 --> 00:10:29,700
+<i>Maaf.</i>
+
+199
+00:10:29,740 --> 00:10:32,460
+<i>Nomor yang Anda tuju</i>
+<i>sedang tidak bisa menjawab</i>
+
+200
+00:10:32,500 --> 00:10:34,240
+<i>Silakan coba beberapa saat lagi.</i>
+
+201
+00:10:39,220 --> 00:10:40,220
+Tidak apa-apa, makanlah dulu.
+
+202
+00:10:40,260 --> 00:10:41,240
+Makan lebih banyak.
+
+203
+00:10:41,780 --> 00:10:42,700
+- Makan dulu.
+- Baik.
+
+204
+00:10:42,740 --> 00:10:43,780
+Makan dulu.
+
+205
+00:10:43,820 --> 00:10:44,920
+Makan saja dulu.
+
+206
+00:10:44,960 --> 00:10:45,860
+Tidak apa-apa.
+
+207
+00:10:49,060 --> 00:10:50,080
+Jiang…
+
+208
+00:10:52,020 --> 00:10:53,860
+Apa makanan penutupnya
+sudah bisa dihidangkan?
+
+209
+00:10:53,900 --> 00:10:56,960
+Untuk ruang pribadi disajikan ronde
+dengan arak beras dan buah pereda enek.
+
+210
+00:10:57,960 --> 00:10:59,040
+Kalian sajikan seperti biasa saja.
+
+211
+00:10:59,080 --> 00:10:59,920
+Silakan.
+
+212
+00:11:31,740 --> 00:11:33,340
+- Apa yang dia ambil?
+- Mantau.
+
+213
+00:11:35,840 --> 00:11:36,680
+Yingtao,
+
+214
+00:11:36,720 --> 00:11:38,220
+tadi kau tidak kenyang, ya?
+
+215
+00:11:41,720 --> 00:11:42,560
+Dia tidak kenyang?
+
+216
+00:11:51,840 --> 00:11:53,200
+Aku keluar sebentar.
+
+217
+00:11:53,240 --> 00:11:54,240
+Ah?
+
+218
+00:12:40,820 --> 00:12:41,860
+Yingtao.
+
+219
+00:12:41,900 --> 00:12:43,620
+Kenapa kau berjongkok di sana
+malam-malam?
+
+220
+00:12:43,660 --> 00:12:44,840
+Ayo, ikut Nenek pulang.
+
+221
+00:12:44,880 --> 00:12:46,900
+- Mampir sebentar ke rumahku.
+- Tidak perlu, Nenek Jia.
+
+222
+00:12:47,400 --> 00:12:51,000
+Aku sedang menunggu
+Bibi Liang dan Paman Jiang.
+
+223
+00:12:51,040 --> 00:12:52,200
+Jiang, ya?
+
+224
+00:12:52,700 --> 00:12:53,840
+Mereka sudah pindah.
+
+225
+00:12:53,880 --> 00:12:54,720
+Tidak tinggal di sini lagi.
+
+226
+00:12:54,760 --> 00:12:55,600
+Pindah?
+
+227
+00:12:56,100 --> 00:12:57,620
+Apa maksudnya mereka pindah?
+
+228
+00:12:57,660 --> 00:12:59,700
+Sepertinya Liang pergi
+bekerja di luar negeri.
+
+229
+00:12:59,740 --> 00:13:00,960
+Katanya,
+
+230
+00:13:01,000 --> 00:13:03,000
+ingin mencari uang lebih banyak
+karena pengeluarannya besar.
+
+231
+00:13:03,040 --> 00:13:04,900
+Lalu, Jiang pun pindah.
+
+232
+00:13:04,940 --> 00:13:06,160
+Mereka tidak tinggal di sini lagi.
+
+233
+00:13:07,400 --> 00:13:08,740
+Mereka tidak tinggal di sini lagi?
+
+234
+00:13:09,320 --> 00:13:10,300
+Bagaimana bisa?
+
+235
+00:13:10,800 --> 00:13:12,240
+Kalau Jiang Qiaoxi pulang,
+
+236
+00:13:12,280 --> 00:13:13,420
+dia tidak punya rumah.
+
+237
+00:13:13,460 --> 00:13:15,360
+Rumah ini belum dijual.
+
+238
+00:13:15,920 --> 00:13:18,620
+Qiaoxi pasti akan pulang.
+
+239
+00:13:43,680 --> 00:13:45,880
+FENG LETIAN
+
+240
+00:13:50,760 --> 00:13:51,800
+MOHON MENUNGGU
+
+241
+00:13:52,580 --> 00:13:55,040
+<i>Besok, aku mau membereskan barang</i>
+<i>di Gedung Putih.</i>
+
+242
+00:13:55,080 --> 00:13:56,140
+<i>Apa kau mau ikut?</i>
+
+243
+00:14:05,220 --> 00:14:06,140
+<i>Tidak perlu.</i>
+
+244
+00:14:24,580 --> 00:14:25,600
+<i>Boleh.</i>
+
+245
+00:14:26,620 --> 00:14:28,200
+<i>Sampai jumpa pukul 09:00 besok.</i>
+
+246
+00:14:28,980 --> 00:14:31,160
+Hari itu, aku melihatmu
+pakai seragam pemandu sorak
+
+247
+00:14:31,200 --> 00:14:32,540
+dan berjalan melewati lapangan.
+
+248
+00:14:33,040 --> 00:14:34,340
+Aku sampai terkejut.
+
+249
+00:14:35,200 --> 00:14:36,260
+Aku sungguh tidak menyangka
+
+250
+00:14:36,300 --> 00:14:39,120
+sekolah kita membuat tim
+yang begitu mirip tim pemandu sorak.
+
+251
+00:14:39,620 --> 00:14:40,740
+Kau sudah tidak mirip dirimu lagi.
+
+252
+00:14:41,240 --> 00:14:43,660
+Namun, kau juga seperti dirimu yang baru.
+
+253
+00:14:46,740 --> 00:14:48,100
+Aku yang baru,
+
+254
+00:14:48,600 --> 00:14:50,960
+apa karena pakaianku pada hari itu?
+
+255
+00:14:51,720 --> 00:14:52,560
+Bukan.
+
+256
+00:14:54,580 --> 00:14:57,300
+Sebelumnya, saat kita SMP di Qunshan,
+
+257
+00:14:57,340 --> 00:14:59,660
+selama tiga tahun SMP,
+kau jarang sekali berbicara.
+
+258
+00:14:59,700 --> 00:15:01,900
+Kegiatan kelas pun jarang kau ikuti.
+
+259
+00:15:02,400 --> 00:15:04,240
+Begitu pulang sekolah, kau langsung pergi.
+
+260
+00:15:04,280 --> 00:15:06,500
+Saat itu, kukira kau sangat introver.
+
+261
+00:15:07,560 --> 00:15:08,640
+Kau selalu
+
+262
+00:15:08,680 --> 00:15:10,220
+diam, dingin, dan tanpa ekspresi.
+
+263
+00:15:10,260 --> 00:15:11,740
+Sama seperti Lu Xueqi.
+
+264
+00:15:12,780 --> 00:15:14,660
+Kau kebanyakan menulis novel, ya?
+
+265
+00:15:14,700 --> 00:15:16,640
+Melihat siapa pun
+terasa seperti karakter dalam novel.
+
+266
+00:15:18,540 --> 00:15:19,520
+Kemudian,
+
+267
+00:15:20,160 --> 00:15:21,380
+aku sadar aku salah.
+
+268
+00:15:21,420 --> 00:15:23,760
+Kau bukan seperti itu.
+
+269
+00:15:23,800 --> 00:15:26,160
+Kau saat di SMA Eksperimen adalah
+dirimu yang baru
+
+270
+00:15:26,660 --> 00:15:29,840
+atau mungkin kau saat di SMP Qunshan
+barulah dirimu yang baru.
+
+271
+00:15:42,920 --> 00:15:44,860
+Rasanya tidak berbeda
+
+272
+00:15:45,460 --> 00:15:47,000
+dengan kelas biasa.
+
+273
+00:15:48,640 --> 00:15:50,820
+Baik aku, Jiang Qiaoxi,
+
+274
+00:15:51,320 --> 00:15:53,300
+atau semua orang di kelas unggulan ini,
+
+275
+00:15:53,800 --> 00:15:55,780
+kita semua tidak berbeda
+dengan orang biasa,
+
+276
+00:15:55,820 --> 00:15:57,080
+sama-sama adalah makhluk hidup.
+
+277
+00:15:59,840 --> 00:16:00,960
+Ini tempat dudukku.
+
+278
+00:16:05,680 --> 00:16:07,620
+Bukankah barangmu sudah dibereskan?
+
+279
+00:16:09,760 --> 00:16:10,860
+Sudah kubereskan.
+
+280
+00:16:19,140 --> 00:16:20,020
+Lin Qile.
+
+281
+00:16:21,220 --> 00:16:22,060
+Ada apa?
+
+282
+00:16:22,560 --> 00:16:23,980
+Apa aku bisa?
+
+283
+00:16:26,560 --> 00:16:29,500
+Apa maksudmu?
+
+284
+00:16:29,540 --> 00:16:31,620
+Sekarang, kita sudah selesai
+ujian masuk universitas.
+
+285
+00:16:32,300 --> 00:16:33,580
+Bisa dibilang sudah jadi mahasiswa.
+
+286
+00:16:33,620 --> 00:16:35,440
+Selama hitung mundur
+ujian masuk universitas,
+
+287
+00:16:35,940 --> 00:16:37,920
+dalam hatiku selalu ada
+hitung mundur lainnya.
+
+288
+00:16:38,780 --> 00:16:39,620
+Aku terus menunggu
+
+289
+00:16:40,120 --> 00:16:42,620
+untuk menyampaikan
+isi hatiku padamu sekarang.
+
+290
+00:16:43,160 --> 00:16:45,960
+Aku ingin hubungan yang lebih
+dari enam tahun sekelas denganmu.
+
+291
+00:16:47,140 --> 00:16:48,060
+Apa kau bersedia?
+
+292
+00:17:11,339 --> 00:17:12,200
+Ketua Kelas,
+
+293
+00:17:13,940 --> 00:17:14,780
+maaf.
+
+294
+00:17:15,319 --> 00:17:16,520
+Lin Qile,
+
+295
+00:17:17,440 --> 00:17:18,940
+kau tidak bersalah padaku.
+
+296
+00:17:19,540 --> 00:17:20,780
+Aku yang bersalah padamu.
+
+297
+00:17:21,640 --> 00:17:23,220
+Padahal aku sudah tahu jawabanmu,
+
+298
+00:17:23,780 --> 00:17:25,099
+tapi masih bertanya
+
+299
+00:17:25,640 --> 00:17:26,720
+dan membuatmu tidak nyaman.
+
+300
+00:17:29,020 --> 00:17:30,040
+Namun,
+
+301
+00:17:30,080 --> 00:17:31,400
+hari ini kau datang
+
+302
+00:17:32,580 --> 00:17:34,000
+bukan ingin membantuku
+membereskan barang, 'kan?
+
+303
+00:17:35,900 --> 00:17:36,960
+Kau tahu?
+
+304
+00:17:37,720 --> 00:17:39,120
+Aku sudah tahu sejak awal.
+
+305
+00:17:39,160 --> 00:17:40,700
+Kau mau melihat
+
+306
+00:17:41,560 --> 00:17:43,480
+tempat duduk Jiang Qiaoxi
+di ruang kelas ini, 'kan?
+
+307
+00:17:49,100 --> 00:17:50,380
+Jiang Qiaoxi duduk di sana.
+
+308
+00:18:04,160 --> 00:18:05,440
+Aku terus mengira
+
+309
+00:18:06,960 --> 00:18:08,400
+setelah bulan Mei,
+
+310
+00:18:08,940 --> 00:18:10,600
+dia akan kembali
+untuk mengambil barang-barangnya.
+
+311
+00:18:13,040 --> 00:18:14,320
+Kau bantu bawa pulang saja.
+
+312
+00:18:42,220 --> 00:18:43,460
+<i>Aku mengerti.</i>
+
+313
+00:18:43,500 --> 00:18:44,420
+Dia adalah Jiang Qiaoxi,
+
+314
+00:18:44,920 --> 00:18:47,360
+orang yang genius
+dan beruntung sejak lahir.
+
+315
+00:18:48,500 --> 00:18:49,700
+Apa yang bisa aku saingi darinya?
+
+316
+00:18:49,740 --> 00:18:51,300
+Apa pula yang bisa kukalahkan?
+
+317
+00:18:53,440 --> 00:18:54,660
+Dia bukan anak yang beruntung.
+
+318
+00:18:58,540 --> 00:18:59,820
+Dia sangat bersusah payah
+
+319
+00:19:01,280 --> 00:19:03,000
+untuk mencapai hasil pada hari ini.
+
+320
+00:19:14,920 --> 00:19:16,200
+GEDUNG BELAJAR
+
+321
+00:19:16,240 --> 00:19:17,120
+Apakah berat?
+
+322
+00:19:17,160 --> 00:19:18,440
+Perlu kubantu bawakan?
+
+323
+00:19:18,480 --> 00:19:19,840
+Tidak perlu, aku bisa sendiri.
+
+324
+00:19:20,380 --> 00:19:22,540
+Yingtao, kau tidak perlu khawatir.
+
+325
+00:19:22,580 --> 00:19:23,880
+Dia pasti akan kembali.
+
+326
+00:19:24,960 --> 00:19:27,480
+Dulu, ada junior bernama Qi Le
+yang memberitahuku
+
+327
+00:19:27,520 --> 00:19:29,020
+bahwa mengikuti Olimpiade Matematika
+sangatlah melelahkan
+
+328
+00:19:29,060 --> 00:19:30,020
+karena harus ujian berturut-turut.
+
+329
+00:19:30,060 --> 00:19:31,160
+Ada yang setelah keluar dari ruang ujian,
+
+330
+00:19:31,200 --> 00:19:32,960
+berada di luar terus
+hingga baru pulang tengah malam.
+
+331
+00:19:33,000 --> 00:19:34,400
+Ada yang bahkan tidak pulang
+
+332
+00:19:34,440 --> 00:19:36,120
+dan langsung pergi ke tempat wisata
+untuk menenangkan pikiran.
+
+333
+00:19:36,620 --> 00:19:37,880
+Namun, Jiang Qiaoxi tidak akan begitu.
+
+334
+00:19:37,920 --> 00:19:39,260
+Dia hanya akan meneleponmu
+
+335
+00:19:39,800 --> 00:19:40,640
+tanpa terhalang angin dan hujan.
+
+336
+00:19:41,140 --> 00:19:42,940
+Setiap setelah selesai ujian,
+
+337
+00:19:42,980 --> 00:19:44,220
+dia akan meneleponmu.
+
+338
+00:19:44,820 --> 00:19:46,280
+Dia tidak menghindari
+siapa pun sama sekali.
+
+339
+00:19:46,320 --> 00:19:48,540
+Bagaimana menjelaskan kondisi itu?
+
+340
+00:19:49,580 --> 00:19:50,680
+Sangat bebas,
+
+341
+00:19:50,720 --> 00:19:51,680
+dan sembrono.
+
+342
+00:19:54,540 --> 00:19:56,320
+Jadi, kau tidak perlu khawatir.
+
+343
+00:19:56,820 --> 00:19:58,280
+Dia pasti akan melanjutkan studi.
+
+344
+00:19:59,700 --> 00:20:01,320
+Selain itu, aku berani jamin,
+
+345
+00:20:01,980 --> 00:20:03,180
+begitu dia pulang,
+
+346
+00:20:03,720 --> 00:20:04,960
+pasti langsung mencarimu.
+
+347
+00:20:26,540 --> 00:20:28,600
+BERSAMA WUJUDKAN KOMUNITAS LISTRIK
+YANG LEBIH BAIK
+
+348
+00:21:06,260 --> 00:21:07,620
+<i>PAHLAWAN</i>
+
+349
+00:21:24,220 --> 00:21:25,200
+{\an8}Aku berjanji padamu
+
+350
+00:21:26,700 --> 00:21:27,820
+{\an8}dan Chunlu,
+
+351
+00:21:29,500 --> 00:21:30,840
+{\an8}bahwa aku pasti segera pulang.
+
+352
+00:22:02,200 --> 00:22:03,280
+Jiang Qiaoxi.
+
+353
+00:22:26,760 --> 00:22:28,380
+Apa kau mau mencuri
+di rumahmu sendiri?
+
+354
+00:22:36,900 --> 00:22:37,740
+Yingtao,
+
+355
+00:22:38,500 --> 00:22:39,440
+apa yang kau bicarakan?
+
+356
+00:22:39,980 --> 00:22:41,340
+Kau pulang ke rumah sendiri,
+
+357
+00:22:43,060 --> 00:22:44,320
+tapi kenapa harus seperti maling?
+
+358
+00:22:48,100 --> 00:22:49,900
+Apa kau mau minggat lagi?
+
+359
+00:23:01,720 --> 00:23:02,760
+Menurutmu,
+
+360
+00:23:04,580 --> 00:23:05,600
+Yingtao?
+
+361
+00:23:06,260 --> 00:23:07,260
+Menurutku…
+
+362
+00:23:13,180 --> 00:23:14,140
+Menurutku…
+
+363
+00:23:17,900 --> 00:23:19,180
+kau datang mencariku.
+
+364
+00:23:34,700 --> 00:23:35,580
+Benar.
+
+365
+00:23:36,260 --> 00:23:37,440
+Aku tidak studi ke luar negeri lagi.
+
+366
+00:23:38,820 --> 00:23:39,880
+Aku mau
+
+367
+00:23:41,140 --> 00:23:42,140
+tetap di sini
+
+368
+00:23:42,720 --> 00:23:43,920
+untuk menemanimu.
+
+369
+00:23:46,660 --> 00:23:48,000
+Kau tidak jadi studi ke luar negeri?
+
+370
+00:23:51,300 --> 00:23:52,680
+Sudah kuduga
+
+371
+00:23:52,720 --> 00:23:55,580
+kau tidak akan putus kontak
+tanpa alasan denganku,
+
+372
+00:23:55,620 --> 00:23:57,460
+juga tidak akan menghilang begitu saja.
+
+373
+00:23:58,000 --> 00:23:59,400
+Pasti sambungan teleponmu diputus
+
+374
+00:23:59,440 --> 00:24:01,820
+dan surat-suratku disobek lagi, 'kan?
+
+375
+00:24:04,320 --> 00:24:05,340
+Jiang Qiaoxi.
+
+376
+00:24:06,720 --> 00:24:08,240
+Kau tidak akan
+berinisiatif meninggalkanku.
+
+377
+00:24:08,740 --> 00:24:09,580
+Benar, 'kan?
+
+378
+00:24:15,120 --> 00:24:16,200
+Tentu saja.
+
+379
+00:24:18,540 --> 00:24:20,520
+Aku sangat baik di Hong Kong.
+
+380
+00:24:21,480 --> 00:24:22,540
+Kakak sepupuku juga sangat baik.
+
+381
+00:24:23,040 --> 00:24:24,340
+Dia sudah punya seorang putri.
+
+382
+00:24:25,940 --> 00:24:27,740
+Di Hong Kong,
+
+383
+00:24:29,300 --> 00:24:30,360
+aku juga belajar dengan baik.
+
+384
+00:24:30,960 --> 00:24:31,980
+Kau tahu itu.
+
+385
+00:24:32,560 --> 00:24:34,920
+Aku selalu bisa mendapat
+nilai yang sangat tinggi.
+
+386
+00:24:36,020 --> 00:24:37,620
+Aku bisa bebas memilih
+masuk universitas mana pun.
+
+387
+00:24:39,960 --> 00:24:40,860
+Namun,
+
+388
+00:24:41,440 --> 00:24:42,740
+aku tidak mau memilih mana pun.
+
+389
+00:24:43,240 --> 00:24:44,780
+Karena di sana
+
+390
+00:24:47,040 --> 00:24:48,480
+tidak ada Lin Yingtao,
+
+391
+00:24:50,980 --> 00:24:52,600
+juga tidak ada mantau kurma Bibi.
+
+392
+00:24:55,620 --> 00:24:56,460
+Aku mau…
+
+393
+00:25:00,760 --> 00:25:01,780
+Aku mau tinggal.
+
+394
+00:25:07,260 --> 00:25:10,060
+Ada bagusnya kau
+tidak studi ke luar negeri.
+
+395
+00:25:10,580 --> 00:25:12,140
+Betapa baiknya kau di sisiku.
+
+396
+00:25:12,640 --> 00:25:16,040
+Aku selalu membawamu
+ke tempat-tempat terbaik, 'kan?
+
+397
+00:25:18,160 --> 00:25:19,160
+Lalu, apa kau ada
+
+398
+00:25:19,720 --> 00:25:20,800
+membaca pesan dariku?
+
+399
+00:25:21,340 --> 00:25:23,500
+Apa kau tahu bahwa nilai
+ujian masuk universitasku sangat bagus?
+
+400
+00:25:24,660 --> 00:25:25,560
+Aku tahu.
+
+401
+00:25:27,700 --> 00:25:28,900
+Universitas Normal Utara, 'kan?
+
+402
+00:25:30,140 --> 00:25:31,780
+Aku tidak menyangka
+nilaimu bisa setinggi itu.
+
+403
+00:25:33,120 --> 00:25:33,960
+Kalau begitu,
+
+404
+00:25:35,060 --> 00:25:36,640
+dengan prestasi Olimpiade Matematikamu,
+
+405
+00:25:37,140 --> 00:25:40,160
+kau bisa masuk
+universitas mana pun di Hongyang.
+
+406
+00:25:40,720 --> 00:25:41,720
+Kau juga tahu
+
+407
+00:25:41,760 --> 00:25:44,980
+bahwa semua universitas terbaik itu
+dekat dengan Universitas Normal Utara.
+
+408
+00:25:46,840 --> 00:25:47,780
+Aku tahu.
+
+409
+00:25:48,580 --> 00:25:49,620
+Aku…
+
+410
+00:25:50,840 --> 00:25:54,220
+Aku akan memilih universitas
+yang paling dekat dengan universitasmu.
+
+411
+00:25:55,560 --> 00:25:56,780
+Nanti,
+
+412
+00:25:56,820 --> 00:25:58,660
+kita bisa berangkat kuliah bersama,
+
+413
+00:26:00,840 --> 00:26:02,180
+pergi ke kantin bersama,
+
+414
+00:26:03,360 --> 00:26:05,520
+lalu setiap hari
+
+415
+00:26:06,160 --> 00:26:07,460
+bisa bersama terus.
+
+416
+00:26:11,320 --> 00:26:12,420
+Apa yang kau katakan ini
+
+417
+00:26:14,700 --> 00:26:15,680
+serius?
+
+418
+00:26:16,500 --> 00:26:17,760
+Kita benar-benar bisa
+
+419
+00:26:18,780 --> 00:26:20,480
+bersama setiap hari?
+
+420
+00:26:21,840 --> 00:26:24,320
+Tentu saja. Kapan aku
+pernah membohongimu?
+
+421
+00:26:28,320 --> 00:26:29,160
+Benar juga.
+
+422
+00:26:31,460 --> 00:26:32,660
+Apa pun yang ingin kau lakukan,
+
+423
+00:26:33,160 --> 00:26:34,000
+pasti akan berhasil.
+
+424
+00:26:39,940 --> 00:26:41,400
+Namun, kenapa
+
+425
+00:26:42,880 --> 00:26:44,700
+saat kau mengatakan ini
+
+426
+00:26:45,240 --> 00:26:46,600
+rasanya seperti mau menangis?
+
+427
+00:26:50,260 --> 00:26:51,240
+Tidak.
+
+428
+00:26:52,240 --> 00:26:53,300
+Aku hanya merasa…
+
+429
+00:26:54,180 --> 00:26:55,320
+Aku hanya merasa,
+
+430
+00:26:57,900 --> 00:26:59,100
+begitu membayangkan
+
+431
+00:26:59,880 --> 00:27:01,460
+masa depan kita yang indah,
+
+432
+00:27:02,740 --> 00:27:04,080
+aku merasa sangat bahagia.
+
+433
+00:27:11,340 --> 00:27:12,840
+Kalau begitu, aku mau bukti.
+
+434
+00:27:14,800 --> 00:27:16,020
+Buk… bukti apa?
+
+435
+00:27:42,060 --> 00:27:43,280
+Apa kau punya gigi taring?
+
+436
+00:28:56,980 --> 00:28:57,820
+Yingtao.
+
+437
+00:29:03,600 --> 00:29:04,700
+Jangan lupakan aku.
+
+438
+00:29:22,020 --> 00:29:22,860
+Yingtao.
+
+439
+00:29:24,020 --> 00:29:25,300
+Aku mau makan
+
+440
+00:29:26,260 --> 00:29:27,660
+mantau kurma buatan Bibi.
+
+441
+00:29:28,300 --> 00:29:29,840
+Kau beruntung sekali.
+
+442
+00:29:30,340 --> 00:29:31,560
+Hari ini,
+
+443
+00:29:32,060 --> 00:29:33,360
+ibuku baru membuat banyak.
+
+444
+00:29:35,540 --> 00:29:37,580
+Kalau begitu,
+mari kita pulang untuk makan.
+
+445
+00:29:38,380 --> 00:29:39,220
+Baik.
+
+446
+00:29:40,140 --> 00:29:40,980
+Ayo.
+
+447
+00:29:57,700 --> 00:29:58,660
+Jiang Qiaoxi.
+
+448
+00:30:02,420 --> 00:30:03,460
+Jiang Qiaoxi.
+
+449
+00:30:09,980 --> 00:30:12,800
+Jiang Qiaoxi.
+
+450
+00:30:19,480 --> 00:30:20,320
+Jiang Qiaoxi.
+
+451
+00:30:22,380 --> 00:30:23,720
+Ke depannya,
+
+452
+00:30:24,240 --> 00:30:27,360
+saat kita benar-benar
+bisa bersama setiap hari,
+
+453
+00:30:28,340 --> 00:30:30,460
+bisakah kau memakai pakaian
+
+454
+00:30:30,960 --> 00:30:31,980
+yang lebih terang?
+
+455
+00:30:32,020 --> 00:30:34,580
+Jangan selalu pakai warna gelap, ya?
+
+456
+00:30:35,440 --> 00:30:38,640
+Setiap kau pakai baju warna cerah,
+
+457
+00:30:38,680 --> 00:30:41,180
+hatiku sangat senang saat melihatnya.
+
+458
+00:30:42,020 --> 00:30:43,340
+Kau juga senang, 'kan?
+
+459
+00:30:44,520 --> 00:30:46,300
+Aku tidak cocok pakai baju warna terang.
+
+460
+00:30:46,800 --> 00:30:48,360
+Bagus!
+
+461
+00:30:48,400 --> 00:30:49,340
+Bagus!
+
+462
+00:30:51,100 --> 00:30:53,020
+Baik. Kalau begitu,
+lain kali aku akan pakai.
+
+463
+00:31:02,700 --> 00:31:04,900
+Jiang Qiaoxi.
+
+464
+00:31:05,720 --> 00:31:07,640
+Jiang Qiaoxi.
+
+465
+00:31:08,560 --> 00:31:10,420
+Jiang Qiaoxi.
+
+466
+00:31:17,200 --> 00:31:18,040
+Yingtao.
+
+467
+00:31:21,640 --> 00:31:23,960
+Apa kau tidak merasa
+ada yang kurang dariku?
+
+468
+00:31:29,660 --> 00:31:30,640
+Kurang apa?
+
+469
+00:31:32,680 --> 00:31:33,840
+Koperku.
+
+470
+00:31:37,480 --> 00:31:38,320
+Oh, iya.
+
+471
+00:31:38,960 --> 00:31:41,440
+Kopermu mana?
+
+472
+00:31:43,680 --> 00:31:45,020
+Sepertinya di depan rumahku.
+
+473
+00:31:45,660 --> 00:31:48,400
+Entah akan diambil orang atau tidak.
+
+474
+00:31:56,180 --> 00:31:57,820
+Begini saja.
+
+475
+00:31:57,860 --> 00:31:59,740
+Kau kukus dulu mantaunya,
+
+476
+00:31:59,780 --> 00:32:01,100
+aku pulang dulu untuk mengambil koper.
+
+477
+00:32:01,140 --> 00:32:02,840
+Saat kembali nanti,
+aku bisa langsung makan.
+
+478
+00:32:07,820 --> 00:32:08,960
+Baiklah.
+
+479
+00:32:10,060 --> 00:32:10,900
+Pergilah.
+
+480
+00:32:18,000 --> 00:32:19,000
+Jiang Qiaoxi.
+
+481
+00:32:19,620 --> 00:32:22,180
+Kalau nanti bertemu orang tuaku,
+
+482
+00:32:22,840 --> 00:32:24,340
+kau bilang saja
+
+483
+00:32:25,660 --> 00:32:26,720
+bertemu denganku di jalan.
+
+484
+00:32:27,460 --> 00:32:29,500
+Kuperingatkan padamu,
+jangan bicara sembarangan.
+
+485
+00:32:30,480 --> 00:32:32,380
+Baik, aku tidak bicara sembarangan.
+
+486
+00:32:44,640 --> 00:32:45,640
+Jiang Qiaoxi.
+
+487
+00:32:52,120 --> 00:32:53,200
+Ada apa?
+
+488
+00:32:55,720 --> 00:32:56,980
+Aku menyukaimu.
+
+489
+00:32:59,340 --> 00:33:00,900
+Sangat menyukaimu.
+
+490
+00:33:09,400 --> 00:33:10,520
+Aku tahu.
+
+491
+00:33:18,640 --> 00:33:19,480
+Aku mencintaimu.
+
+492
+00:33:35,400 --> 00:33:36,620
+Pergilah.
+
+493
+00:34:01,100 --> 00:34:02,040
+Siapa itu?
+
+494
+00:34:02,720 --> 00:34:03,580
+Siapa?
+
+495
+00:34:04,560 --> 00:34:05,760
+Aku.
+
+496
+00:34:06,260 --> 00:34:08,000
+Bukankah kau membawa kunci?
+
+497
+00:34:08,040 --> 00:34:09,199
+Aku lupa.
+
+498
+00:34:12,400 --> 00:34:13,340
+Kau mau apa?
+
+499
+00:34:13,380 --> 00:34:15,400
+Aku mau memanaskan mantau kurma.
+
+500
+00:34:15,440 --> 00:34:16,800
+Jiang Qiaoxi lapar, dia mau makan.
+
+501
+00:34:17,800 --> 00:34:18,960
+- Qiaoxi?
+- Iya.
+
+502
+00:34:20,100 --> 00:34:21,260
+Qiaoxi pulang, ya?
+
+503
+00:34:22,780 --> 00:34:24,060
+Aku…
+
+504
+00:34:24,100 --> 00:34:27,760
+Saat lewat depan rumahnya,
+aku kebetulan melihat
+
+505
+00:34:28,260 --> 00:34:29,460
+dia keluar dari rumahnya.
+
+506
+00:34:29,500 --> 00:34:31,500
+Sekarang, dia pulang
+untuk mengambil kopernya.
+
+507
+00:34:32,000 --> 00:34:33,179
+Dia akan segera datang.
+
+508
+00:34:35,500 --> 00:34:37,679
+- Bukan begitu cara kukus mantau.
+- Ibu saja.
+
+509
+00:34:39,100 --> 00:34:40,340
+Kau tunggu di sana saja.
+
+510
+00:34:52,760 --> 00:34:53,679
+Kau buat apa lagi?
+
+511
+00:34:53,719 --> 00:34:55,280
+- Akar teratai isi.
+- Jangan nyalakan lagi.
+
+512
+00:34:56,219 --> 00:34:57,160
+Nanti,
+
+513
+00:34:57,700 --> 00:34:59,640
+Ibu panggang pakai wajan saja.
+
+514
+00:35:04,180 --> 00:35:05,340
+Jangan dituang begitu.
+
+515
+00:35:05,380 --> 00:35:07,400
+Sudah, biar Ibu saja nanti.
+
+516
+00:35:08,040 --> 00:35:08,880
+Baiklah.
+
+517
+00:35:32,040 --> 00:35:33,240
+Sedang apa, Yingtao?
+
+518
+00:35:34,700 --> 00:35:35,580
+Aku…
+
+519
+00:35:36,080 --> 00:35:37,760
+Aku sedang berpikir,
+kenapa dia belum datang?
+
+520
+00:35:38,260 --> 00:35:39,100
+Siapa?
+
+521
+00:35:40,360 --> 00:35:41,200
+Jiang Qiaoxi.
+
+522
+00:36:06,800 --> 00:36:07,740
+<i>Maaf.</i>
+
+523
+00:36:07,780 --> 00:36:10,980
+<i>Nomor yang Anda tuju</i>
+<i>sedang tidak dapat dihubungi.</i>
+
+524
+00:36:11,020 --> 00:36:12,460
+<i>Silakan coba beberapa saat lagi.</i>
+
+525
+00:36:12,500 --> 00:36:15,200
+<i>Maaf. Nomor yang Anda tuju</i>
+<i>sedang tidak dapat dihubungi.</i>
+
+526
+00:36:25,760 --> 00:36:26,680
+<i>Maaf.</i>
+
+527
+00:36:26,720 --> 00:36:29,820
+<i>Nomor yang Anda tuju</i>
+<i>sedang tidak dapat dihubungi.</i>
+
+528
+00:36:29,860 --> 00:36:31,340
+<i>Silakan coba beberapa saat lagi.</i>
+
+529
+00:36:31,380 --> 00:36:35,120
+<i>Maaf. Nomor yang Anda tuju</i>
+<i>sedang tidak dapat dihubungi.</i>
+
+530
+00:36:35,160 --> 00:36:37,120
+<i>Silakan coba beberapa saat lagi.</i>
+
+531
+00:36:37,740 --> 00:36:38,580
+Kau mau ke mana?
+
+532
+00:36:38,620 --> 00:36:39,900
+Bukankah baru pulang? Kenapa pergi lagi?
+
+533
+00:36:39,940 --> 00:36:40,920
+Yingtao!
+
+534
+00:36:41,420 --> 00:36:42,260
+Yingtao!
+
+535
+00:36:44,960 --> 00:36:45,800
+Yingtao!
+
+536
+00:37:18,700 --> 00:37:19,960
+Jiang Qiaoxi!
+
+537
+00:37:53,980 --> 00:37:55,000
+{\an8}Paman!
+
+538
+00:37:55,040 --> 00:37:57,460
+{\an8}Paman, apakah ada melihat
+anak laki-laki berpakaian hitam
+
+539
+00:37:57,500 --> 00:37:59,300
+{\an8}dan memakai topi yang membawa koper?
+
+540
+00:37:59,340 --> 00:38:01,560
+{\an8}Dia naik taksi di depan gerbang.
+
+541
+00:38:01,600 --> 00:38:02,620
+{\an8}Pergi ke arah sana.
+
+542
+00:38:02,660 --> 00:38:03,500
+{\an8}Terima kasih!
+
+543
+00:38:05,960 --> 00:38:07,360
+{\an8}Jiang Qiaoxi!
+
+544
+00:38:17,480 --> 00:38:18,920
+{\an8}Jiang Qiaoxi!
+
+545
+00:38:43,580 --> 00:38:45,020
+{\an8}Jiang Qiaoxi!
+
+546
+00:39:08,080 --> 00:39:09,960
+Jiang Qiaoxi!
+
+547
+00:39:16,740 --> 00:39:18,080
+{\an8}- Yingtao!
+- Yingtao!
+
+548
+00:39:18,580 --> 00:39:19,440
+{\an8}Yingtao!
+
+549
+00:39:22,480 --> 00:39:23,320
+{\an8}Yingtao!
+
+550
+00:39:25,500 --> 00:39:26,700
+{\an8}Yingtao!
+
+551
+00:39:31,020 --> 00:39:31,860
+{\an8}Yingtao!
+
+552
+00:39:32,620 --> 00:39:33,460
+{\an8}Yingtao.
+
+553
+00:39:33,500 --> 00:39:34,380
+{\an8}Kau…
+
+554
+00:39:36,300 --> 00:39:37,180
+{\an8}Ada apa?
+
+555
+00:39:43,460 --> 00:39:44,940
+{\an8}Jiang Qiaoxi…
+
+556
+00:39:46,000 --> 00:39:47,300
+{\an8}Jiang Qiaoxi
+
+557
+00:39:48,040 --> 00:39:49,940
+{\an8}membohongiku.
+
+558
+00:39:57,040 --> 00:39:59,080
+{\an8}Ayo, bangun. Kita pulang.
+
+559
+00:40:00,320 --> 00:40:01,160
+{\an8}Ayo, pulang.
+
+560
+00:40:02,140 --> 00:40:02,980
+{\an8}Ayo, pulang.
+
+561
+00:40:04,180 --> 00:40:06,220
+{\an8}Dia bohong padaku.
+
+562
+00:40:06,860 --> 00:40:07,780
+{\an8}Kita bicarakan di rumah.
+
+563
+00:40:11,680 --> 00:40:12,820
+{\an8}Ayo, pulang.
+
+564
+00:40:12,860 --> 00:40:15,120
+{\an8}Jiang Qiaoxi meneleponku.
+
+565
+00:40:18,220 --> 00:40:19,320
+{\an8}Ayo, kita pulang.
+
+566
+00:40:29,060 --> 00:40:30,020
+{\an8}Kita pulang.
+
+567
+00:40:39,360 --> 00:40:40,720
+<i>Tahun 2008,</i>
+
+568
+00:40:40,760 --> 00:40:45,360
+<i>Krisis keuangan yang dipicu</i>
+<i>pasar hipotek subprima di Amerika Serikat</i>
+
+569
+00:40:45,400 --> 00:40:47,660
+<i>bagaikan tsunami tiba-tiba</i>
+
+570
+00:40:47,700 --> 00:40:49,720
+<i>yang menerjang pasar keuangan global,</i>
+
+571
+00:40:49,760 --> 00:40:51,180
+<i>dan memberi dampak pada ekonomi dunia.</i>
+
+572
+00:40:51,220 --> 00:40:53,480
+Katanya, ini adalah
+krisis ekonomi terparah
+
+573
+00:40:53,520 --> 00:40:55,500
+sejak Depresi Besar tahun 1929.
+
+574
+00:40:55,540 --> 00:40:57,600
+Anak kita baru masuk kuliah,
+
+575
+00:40:57,640 --> 00:40:58,980
+kehidupan mereka baru dimulai,
+
+576
+00:40:59,020 --> 00:41:01,020
+tapi sudah menghadapi gejolak sebesar ini.
+
+577
+00:41:02,880 --> 00:41:05,080
+Tiap generasi punya
+takdir dan tantangannya.
+
+578
+00:41:05,120 --> 00:41:06,800
+Biarkan anak-anak berjuang sendiri.
+
+579
+00:41:07,500 --> 00:41:09,320
+Ada apa dengan tahun ini?
+
+580
+00:41:09,820 --> 00:41:12,520
+Sudah bencana alam,
+ditambah lagi krisis ekonomi.
+
+581
+00:41:13,020 --> 00:41:14,620
+Semua orang kesulitan keuangan.
+
+582
+00:41:15,220 --> 00:41:17,660
+Bahkan toko kelontongku juga
+tidak seramai dulu lagi.
+
+583
+00:41:18,220 --> 00:41:19,240
+Qin, jangan khawatir.
+
+584
+00:41:19,780 --> 00:41:20,860
+Pemerintah sedang
+memperluas permintaan domestik.
+
+585
+00:41:21,360 --> 00:41:23,000
+Sudah bilang,
+suku bunganya akan disesuaikan.
+
+586
+00:41:23,040 --> 00:41:24,340
+Setelah investasi masuk,
+
+587
+00:41:24,380 --> 00:41:26,960
+- ekonomi pun akan segera membaik.
+- Benar.
+
+588
+00:41:28,880 --> 00:41:29,860
+Lumayan juga.
+
+589
+00:41:31,860 --> 00:41:33,620
+Bentuk ikan masmu itu cukup bagus.
+
+590
+00:41:33,660 --> 00:41:36,100
+Mirip dengan makna
+lompatan gemilang menuju kesuksesan.
+
+591
+00:41:37,500 --> 00:41:38,900
+Aku sudah lama menguasai hidangan ini.
+
+592
+00:41:38,940 --> 00:41:42,040
+Aku sengaja menunggu
+sampai anak-anak masuk kuliah,
+
+593
+00:41:42,080 --> 00:41:42,960
+barulah kupamer keahlianku.
+
+594
+00:41:43,460 --> 00:41:44,600
+Kau memang jago.
+
+595
+00:41:45,140 --> 00:41:47,420
+Aku selalu merasa
+mereka masih anak-anak.
+
+596
+00:41:47,460 --> 00:41:49,180
+Dalam sekejap saja,
+mereka sudah jadi mahasiswa.
+
+597
+00:41:50,140 --> 00:41:52,820
+Waktu kecil, Yingtao begitu malas belajar.
+
+598
+00:41:52,860 --> 00:41:54,440
+Seharian hanya tahu main.
+
+599
+00:41:54,480 --> 00:41:55,980
+Waktu itu, aku masih khawatir
+
+600
+00:41:56,020 --> 00:41:58,800
+setelah besar nanti,
+dia diterima di universitas atau tidak.
+
+601
+00:41:58,840 --> 00:42:00,680
+Sekarang, kau tidak perlu
+khawatir lagi, 'kan?
+
+602
+00:42:00,720 --> 00:42:03,840
+Nilai Yingtao paling tinggi
+di antara beberapa anak itu.
+
+603
+00:42:03,880 --> 00:42:05,900
+Bahkan lebih tinggi
+belasan poin dari Yu Qiao.
+
+604
+00:42:07,520 --> 00:42:08,360
+Du Shang juga.
+
+605
+00:42:08,400 --> 00:42:10,140
+Dulu, badannya begitu kecil
+
+606
+00:42:10,180 --> 00:42:11,680
+dan berlatih bela diri setiap hari.
+
+607
+00:42:12,180 --> 00:42:13,960
+Sekarang, dia sudah masuk
+ke fakultas kedokteran.
+
+608
+00:42:14,500 --> 00:42:16,140
+Kelak, dia akan menjadi dokter.
+
+609
+00:42:16,180 --> 00:42:18,680
+Anak itu pun tenang,
+memang cocok jadi dokter.
+
+610
+00:42:19,220 --> 00:42:20,620
+Kalau sakit kelak,
+
+611
+00:42:20,660 --> 00:42:22,160
+aku pasti bisa tenang berobat dengannya.
+
+612
+00:42:23,040 --> 00:42:24,580
+Sakit apanya?
+
+613
+00:42:24,620 --> 00:42:26,420
+Kita pikir yang baik-baik saja.
+
+614
+00:42:26,460 --> 00:42:29,100
+Kita pikirkan saja kelak bisa naik
+pesawat yang dikendarai Qiao.
+
+615
+00:42:29,680 --> 00:42:33,020
+Tidak mudah untuk masuk
+Akademi Penerbangan <i>Northern Airlines</i>.
+
+616
+00:42:33,060 --> 00:42:34,340
+Namun, dia bisa masuk dengan mudah.
+
+617
+00:42:35,160 --> 00:42:36,540
+Anak-anak kita ini
+
+618
+00:42:36,580 --> 00:42:37,680
+semuanya membanggakan.
+
+619
+00:42:37,720 --> 00:42:38,560
+Benar.
+
+620
+00:42:39,260 --> 00:42:41,440
+Fangyuan sudah jadi bos, 'kan?
+
+621
+00:42:41,480 --> 00:42:44,320
+Ada ceritanya. Kemarin,
+aku dan ayahnya bawa dia ke mal
+
+622
+00:42:44,360 --> 00:42:46,200
+dan ingin membelikan dia
+kebutuhan kuliah nanti.
+
+623
+00:42:46,740 --> 00:42:47,880
+Dia justru cukup hebat,
+
+624
+00:42:47,920 --> 00:42:49,020
+malah pakai uangnya sendiri
+
+625
+00:42:49,060 --> 00:42:51,360
+untuk membelikan aku dan ayahnya
+masing-masing satu pakaian baru.
+
+626
+00:42:51,400 --> 00:42:52,640
+Benarkah?
+
+627
+00:42:53,200 --> 00:42:54,240
+Bagus sekali.
+
+628
+00:42:54,940 --> 00:42:56,220
+Dulu, kau masih bilang
+
+629
+00:42:56,260 --> 00:42:58,980
+Fang Yuan sering membuatmu
+kesal dan bagaimana itu.
+
+630
+00:42:59,020 --> 00:43:00,180
+Lihatlah sekarang.
+
+631
+00:43:00,920 --> 00:43:02,060
+Dia membuat situs web sendiri,
+
+632
+00:43:02,100 --> 00:43:04,180
+bahkan begitu sukses.
+
+633
+00:43:04,680 --> 00:43:05,720
+Benar.
+
+634
+00:43:05,760 --> 00:43:07,240
+Fangyuan sungguh membanggakan.
+
+635
+00:43:07,280 --> 00:43:08,120
+Iya.
+
+636
+00:43:08,160 --> 00:43:10,760
+Anak ini memang
+kurang berbakat dalam belajar.
+
+637
+00:43:11,260 --> 00:43:13,620
+Namun, dia bisa masuk
+universitas standar di Shanghai,
+
+638
+00:43:14,120 --> 00:43:15,400
+aku pun sudah puas.
+
+639
+00:43:15,440 --> 00:43:16,920
+Dia dan Du Shang juga bisa
+saling menemani.
+
+640
+00:43:18,880 --> 00:43:21,900
+Yingtao dan Yu Qiao juga bisa
+saling menjaga di Hongyang.
+
+641
+00:43:22,700 --> 00:43:25,460
+Hanya saja, Yun,
+padahal bisa ke Hongyang juga,
+
+642
+00:43:25,500 --> 00:43:26,860
+tapi malah pilih tinggal di rumah.
+
+643
+00:43:27,400 --> 00:43:29,880
+Anak itu pengertian,
+dia ingin lebih dekat dengan ayahnya.
+
+644
+00:43:31,600 --> 00:43:33,520
+Anak perempuan memang lebih baik,
+mereka pengertian.
+
+645
+00:43:34,020 --> 00:43:34,920
+Beda dengan anak laki-laki.
+
+646
+00:43:35,420 --> 00:43:36,820
+Cai Fangyuan
+
+647
+00:43:36,860 --> 00:43:39,280
+sampai mengigau pun
+bilang mau ke Shanghai.
+
+648
+00:43:40,120 --> 00:43:40,960
+Juan.
+
+649
+00:43:41,760 --> 00:43:43,700
+Bagaimana keadaan Yingtao belakangan?
+
+650
+00:43:45,840 --> 00:43:47,380
+Dari luar kelihatan baik-baik saja,
+
+651
+00:43:47,880 --> 00:43:50,400
+tapi semuanya dipendam dalam hati.
+
+652
+00:43:51,080 --> 00:43:52,760
+Kemarin, dia bahkan bilang padaku
+
+653
+00:43:52,800 --> 00:43:56,220
+bahwa mau pergi ke Hongyang sendiri,
+menolak diantar aku dan ayahnya.
+
+654
+00:43:56,720 --> 00:43:58,900
+Entah apa yang dipikirkannya.
+
+655
+00:44:00,820 --> 00:44:03,140
+Ini tidak seperti Yingtao pada biasanya.
+
+656
+00:46:30,660 --> 00:46:33,160
+{\an8}Terjemahan subtitle oleh Erline Huang
+
